@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VR看房</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="x5-fullscreen" content="true">
+    <meta name="full-screen" content="yes">
+
+    <link rel="stylesheet" href="src/css/index.css">
+    <link rel="stylesheet" href="src/css/bootstrap.min.css">
+    <link rel="stylesheet" href="src/css/bootstrap-horizon.css">
+    <link rel="stylesheet" href="src/css/thumbnail.css">
+
+    <link rel="shortcut icon" sizes="196x196" href="./src/images/logo.png">
+    <link rel="apple-touch-icon" href="./src/images/logo.png">
+</head>
+<body>
+
+<div id="welcome" style="background-image: url('./src/images/cover.jpg'); background-size: contain; background-repeat:no-repeat; background-position: center;">
+    <div class="centered">
+        <h1 style="max-width: 100%; font-size:40px; color:white">VR看房</h1>
+        <h2 id="loading_tip" style="padding-bottom: 10px; font-size:15px; color:white; line-height:1.4">准备中，请稍等...</h2>
+        <div class="progress" >
+            <div id="loading_progress_bar" class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                0%
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="thumbnail-controller" class="row navbar navbar-fixed-bottom">
+    <img id="thumbnail-control-button" src="./src/images/thumbnail.png" class="img-opacity controller" onclick="onThumbnailControllerClicked(event)" >
+    <div id="thumbnail-list" class="row row-horizon background-trans" align="center" >
+        <div id="thumbnail" class="col-xs-3 col-sm-1 col-md-1">
+            <div class="thumbnail-unselected text-center">
+                <img id="thumbnail-image" src=""
+                     class="img-responsive">
+                <div class="thumbnail-caption text-overlay-bg-trans">
+                    <span id="thumbnail-name">一楼</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="controller">
+
+    <div id="enterHotSpotTip" class="background-trans">
+        <h5 style="color: white; ">点击光柱进入房间</h5>
+    </div>
+
+    <div id="controlTip" class="loading-trans radius-div centered" >
+        <h5 style="color: white; ">拖动房型图可以观看不同角度</h5>
+        <h5 style="color: white; ">双指拖动可以缩放</h5>
+    </div>
+
+    <div id="loading" class="loading-trans radius-div centered" >
+        <h5 style="color: white; ">加载中</h5>
+    </div>
+
+    <div id="vrStartTip" class="loading-trans radius-div centered" >
+        <h5 style="color: white; ">请将手机放入VR眼镜中</h5>
+    </div>
+
+    <div id="switchToOverviewDiv">
+        <img src="./src/images/back.png" class="img-opacity controller" onclick="onSwitchToOverviewClicked(event)" >
+    </div>
+
+    <div id="controlDiv">
+        <img id="switchVRButton" src="./src/images/vr.png" class="img-opacity controller" onclick="onVRButtonClicked(event)" >
+    </div>
+</div>
+
+<div id="vr_house_container"></div>
+
+<!--three.js-->
+<script src="./lib/threejs/three.js"></script>
+<script src="./lib/threejs/OrbitControls.js"></script>
+<script src="./lib/threejs/stats.min.js"></script>
+
+<!--Web VR-->
+<script src="./lib/vr/PhoneVR.js"></script>
+<script src="./lib/vr/VRControls.js"></script>
+<script src="./lib/vr/VREffect.js"></script>
+
+<!--Bootstrap-->
+<script src="./lib/jquery/jquery_2.1.1.min.js"></script>
+<script src="./lib/bootstrap/bootstrap.min.js"></script>
+
+<!--thumbnail-->
+<script src="./src/js/gyyhThumbnail.js"></script>
+
+<!--core-->
+<script src="./src/js/PanoramaControls.js"></script>
+<script src="./src/js/vrhouse.js"></script>
+
+</body>
+</html>
