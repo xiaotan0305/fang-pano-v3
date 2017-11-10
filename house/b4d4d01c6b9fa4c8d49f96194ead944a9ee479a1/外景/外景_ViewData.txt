@@ -1,0 +1,2512 @@
+{
+    "Rooms": [
+        {
+            "Name": "入口一",
+            "Position": {
+                "x": -1551.6674,
+                "y": 0,
+                "z": 475.6271
+            },
+            "Rotation": 0,
+            "RoomFaces": [
+                {
+                    "Name": "入口一_face_0",
+                    "Position": {
+                        "x": -21.1329,
+                        "y": -8.5063,
+                        "z": 268.2811
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 353.599609375,
+                        "z": 0
+                    },
+                    "Width": 0.2387,
+                    "Height": 132.9874,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口一_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口一_face_2",
+                    "Position": {
+                        "x": 376.5657,
+                        "y": -8.5063,
+                        "z": 223.7607
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 353.793334960938,
+                        "z": 0
+                    },
+                    "Width": 12.5975,
+                    "Height": 132.9874,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口一_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口一_face_3",
+                    "Position": {
+                        "x": 353.8542,
+                        "y": -8.5063,
+                        "z": -35.852
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 263.615417480469,
+                        "z": 0
+                    },
+                    "Width": 521.0953,
+                    "Height": 132.9874,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口一_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口一_face_4",
+                    "Position": {
+                        "x": 166.4736,
+                        "y": -8.5063,
+                        "z": -278.2045
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 174.025054931641,
+                        "z": 0
+                    },
+                    "Width": 318.5452,
+                    "Height": 132.9874,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口一_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口一_face_6",
+                    "Position": {
+                        "x": -76.9439,
+                        "y": -8.5063,
+                        "z": -249.8212
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 173.616363525391,
+                        "z": 0
+                    },
+                    "Width": 4.5368,
+                    "Height": 132.9874,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口一_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口一_face_7",
+                    "Position": {
+                        "x": -50.2249,
+                        "y": -8.5063,
+                        "z": 9.3627
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 83.6154098510742,
+                        "z": 0
+                    },
+                    "Width": 521.0953,
+                    "Height": 132.9874,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口一_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口一_up",
+                    "Position": {
+                        "x": 151.8147,
+                        "y": 57.9874,
+                        "z": -13.2447
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 462.0258,
+                    "Height": 563.0782,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口一_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "入口一_down",
+                    "Position": {
+                        "x": 151.8147,
+                        "y": -75,
+                        "z": -13.2447
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 462.0258,
+                    "Height": 563.0782,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口一_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "入口一-1",
+                "入口一-3"
+            ]
+        },
+        {
+            "Name": "通道中",
+            "Position": {
+                "x": -1282.1785,
+                "y": 0.15,
+                "z": 121.5012
+            },
+            "Rotation": 4.00194215774536,
+            "RoomFaces": [
+                {
+                    "Name": "通道中_face_0",
+                    "Position": {
+                        "x": 96.1389,
+                        "y": -20.8306,
+                        "z": 48.529
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 356.055358886719,
+                        "z": 0
+                    },
+                    "Width": 496.3856,
+                    "Height": 108.3388,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道中_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道中_face_1",
+                    "Position": {
+                        "x": 343.6743,
+                        "y": -20.8306,
+                        "z": 30.4476
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 266.055908203125,
+                        "z": 0
+                    },
+                    "Width": 2.0201,
+                    "Height": 108.3388,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道中_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道中_face_3",
+                    "Position": {
+                        "x": 337.8284,
+                        "y": -20.8306,
+                        "z": -54.3244
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 86.0508422851563,
+                        "z": 0
+                    },
+                    "Width": 2.0272,
+                    "Height": 108.3388,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道中_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道中_face_4",
+                    "Position": {
+                        "x": 90.2934,
+                        "y": -20.8306,
+                        "z": -36.2394
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 176.055389404297,
+                        "z": 0
+                    },
+                    "Width": 496.3856,
+                    "Height": 108.3388,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道中_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道中_face_5",
+                    "Position": {
+                        "x": -157.272,
+                        "y": -20.8306,
+                        "z": -18.5931
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 86.0545654296875,
+                        "z": 0
+                    },
+                    "Width": 1.1479,
+                    "Height": 108.3388,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道中_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道中_face_7",
+                    "Position": {
+                        "x": -151.482,
+                        "y": -20.8306,
+                        "z": 65.3718
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 86.0219421386719,
+                        "z": 0
+                    },
+                    "Width": 0.463,
+                    "Height": 108.3388,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道中_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道中_up",
+                    "Position": {
+                        "x": 93.2161,
+                        "y": 33.3388,
+                        "z": 5.1336
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 501.0552,
+                    "Height": 120.9383,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道中_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "通道中_down",
+                    "Position": {
+                        "x": 93.2161,
+                        "y": -75,
+                        "z": 5.1336
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 501.0552,
+                    "Height": 120.9383,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道中_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "通道中-1"
+            ]
+        },
+        {
+            "Name": "通道上",
+            "Position": {
+                "x": -843.5134,
+                "y": 0.3,
+                "z": 70.2943
+            },
+            "Rotation": 355.366821289063,
+            "RoomFaces": [
+                {
+                    "Name": "通道上_face_0",
+                    "Position": {
+                        "x": -0.4959,
+                        "y": -18.6551,
+                        "z": 52.1932
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 347.419891357422,
+                        "z": 0
+                    },
+                    "Width": 177.8297,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_face_1",
+                    "Position": {
+                        "x": 75.4092,
+                        "y": -18.6551,
+                        "z": -15.9048
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 257.419891357422,
+                        "z": 0
+                    },
+                    "Width": 99.8614,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_face_2",
+                    "Position": {
+                        "x": 64.4466,
+                        "y": -18.6551,
+                        "z": -64.6173
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 167.414031982422,
+                        "z": 0
+                    },
+                    "Width": 0.1792,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_face_3",
+                    "Position": {
+                        "x": 46.225,
+                        "y": -18.6551,
+                        "z": -145.8581
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 257.419921875,
+                        "z": 0
+                    },
+                    "Width": 166.5183,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_face_4",
+                    "Position": {
+                        "x": 27.6585,
+                        "y": -18.6551,
+                        "z": -227.0219
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 167.419464111328,
+                        "z": 0
+                    },
+                    "Width": 0.8859,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_face_6",
+                    "Position": {
+                        "x": -144.7341,
+                        "y": -18.6551,
+                        "z": -188.5507
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 167.417236328125,
+                        "z": 0
+                    },
+                    "Width": 0.2285,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_face_7",
+                    "Position": {
+                        "x": -126.7114,
+                        "y": -18.6551,
+                        "z": -107.2655
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 77.419921875,
+                        "z": 0
+                    },
+                    "Width": 166.5184,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_face_8",
+                    "Position": {
+                        "x": -108.8018,
+                        "y": -18.6551,
+                        "z": -25.955
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 167.418090820313,
+                        "z": 0
+                    },
+                    "Width": 0.4602,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_face_9",
+                    "Position": {
+                        "x": -109.0095,
+                        "y": -18.6551,
+                        "z": -25.8293
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 77.4188537597656,
+                        "z": 0
+                    },
+                    "Width": 0.1549,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_face_11",
+                    "Position": {
+                        "x": -87.3612,
+                        "y": -18.6551,
+                        "z": 71.1783
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 77.4194488525391,
+                        "z": 0
+                    },
+                    "Width": 0.7808,
+                    "Height": 112.6898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_face_11.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道上_up",
+                    "Position": {
+                        "x": -29.2806,
+                        "y": 37.6898,
+                        "z": -77.7795
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 231.1299,
+                    "Height": 298.6777,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "通道上_down",
+                    "Position": {
+                        "x": -29.2806,
+                        "y": -75,
+                        "z": -77.7795
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 231.1299,
+                    "Height": 298.6777,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道上_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "通道上-1"
+            ]
+        },
+        {
+            "Name": "大楼右侧",
+            "Position": {
+                "x": -878.2972,
+                "y": 0.5,
+                "z": -202.2675
+            },
+            "Rotation": 8.19935607910156,
+            "RoomFaces": [
+                {
+                    "Name": "大楼右侧_face_0",
+                    "Position": {
+                        "x": -111.0415,
+                        "y": 2.2786,
+                        "z": 58.7168
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0.41253662109375,
+                        "z": 0
+                    },
+                    "Width": 0.0779,
+                    "Height": 154.5573,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼右侧_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼右侧_face_2",
+                    "Position": {
+                        "x": 350.2692,
+                        "y": 2.2786,
+                        "z": 60.7527
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0.253074645996094,
+                        "z": 0
+                    },
+                    "Width": 540.675,
+                    "Height": 154.5573,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼右侧_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼右侧_face_3",
+                    "Position": {
+                        "x": 620.6185,
+                        "y": 2.2786,
+                        "z": 58.6813
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270.253265380859,
+                        "z": 0
+                    },
+                    "Width": 6.531,
+                    "Height": 154.5573,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼右侧_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼右侧_face_5",
+                    "Position": {
+                        "x": 622.0265,
+                        "y": 2.2786,
+                        "z": -260.4525
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270.252807617188,
+                        "z": 0
+                    },
+                    "Width": 4.5649,
+                    "Height": 154.5573,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼右侧_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼右侧_face_6",
+                    "Position": {
+                        "x": 256.1943,
+                        "y": 2.2786,
+                        "z": -264.35
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180.252944946289,
+                        "z": 0
+                    },
+                    "Width": 731.6917,
+                    "Height": 154.5573,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼右侧_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼右侧_face_7",
+                    "Position": {
+                        "x": -110.3642,
+                        "y": 2.2786,
+                        "z": -103.6243
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90.2527847290039,
+                        "z": 0
+                    },
+                    "Width": 324.6848,
+                    "Height": 154.5573,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼右侧_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼右侧_up",
+                    "Position": {
+                        "x": 255.478,
+                        "y": 79.5573,
+                        "z": -102.0092
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 733.117,
+                    "Height": 327.9119,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼右侧_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "大楼右侧_down",
+                    "Position": {
+                        "x": 255.478,
+                        "y": -75,
+                        "z": -102.0092
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 733.117,
+                    "Height": 327.9119,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼右侧_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "大楼右侧-1"
+            ]
+        },
+        {
+            "Name": "大楼左侧",
+            "Position": {
+                "x": 119.1445,
+                "y": 1.05,
+                "z": -372.7398
+            },
+            "Rotation": 4.7581672668457,
+            "RoomFaces": [
+                {
+                    "Name": "大楼左侧_face_0",
+                    "Position": {
+                        "x": -73.0596,
+                        "y": 5.2931,
+                        "z": 124.711
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 356.811645507813,
+                        "z": 0
+                    },
+                    "Width": 286.7162,
+                    "Height": 160.5862,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧_face_1",
+                    "Position": {
+                        "x": 70.066,
+                        "y": 5.2931,
+                        "z": 116.547
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 266.812164306641,
+                        "z": 0
+                    },
+                    "Width": 0.3817,
+                    "Height": 160.5862,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧_face_3",
+                    "Position": {
+                        "x": 50.0083,
+                        "y": 5.2931,
+                        "z": -243.5219
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 266.8125,
+                        "z": 0
+                    },
+                    "Width": 14.4438,
+                    "Height": 160.5862,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧_face_4",
+                    "Position": {
+                        "x": -93.5296,
+                        "y": 5.2931,
+                        "z": -242.7591
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 176.811614990234,
+                        "z": 0
+                    },
+                    "Width": 286.7164,
+                    "Height": 160.5862,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧_face_5",
+                    "Position": {
+                        "x": -236.6626,
+                        "y": 5.2931,
+                        "z": -234.7269
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 86.8127593994141,
+                        "z": 0
+                    },
+                    "Width": 0.1177,
+                    "Height": 160.5862,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧_face_7",
+                    "Position": {
+                        "x": -216.5892,
+                        "y": 5.2931,
+                        "z": 125.6218
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 86.8117218017578,
+                        "z": 0
+                    },
+                    "Width": 14.147,
+                    "Height": 160.5862,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧_up",
+                    "Position": {
+                        "x": -83.2946,
+                        "y": 85.5862,
+                        "z": -59.0241
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 306.7425,
+                    "Height": 383.4169,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "大楼左侧_down",
+                    "Position": {
+                        "x": -83.2946,
+                        "y": -75,
+                        "z": -59.0241
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 306.7425,
+                    "Height": 383.4169,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "大楼左侧-1"
+            ]
+        },
+        {
+            "Name": "老柏树",
+            "Position": {
+                "x": 381.6841,
+                "y": 1.4,
+                "z": -424.6895
+            },
+            "Rotation": 354.66162109375,
+            "RoomFaces": [
+                {
+                    "Name": "老柏树_face_0",
+                    "Position": {
+                        "x": 244.7836,
+                        "y": 2.2607,
+                        "z": 233.7049
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 346.6611328125,
+                        "z": 0
+                    },
+                    "Width": 775.5666,
+                    "Height": 154.5214,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/老柏树_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "老柏树_face_1",
+                    "Position": {
+                        "x": 621.7719,
+                        "y": 2.2607,
+                        "z": 142.832
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 256.662719726563,
+                        "z": 0
+                    },
+                    "Width": 2.8927,
+                    "Height": 154.5214,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/老柏树_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "老柏树_face_3",
+                    "Position": {
+                        "x": 509.8818,
+                        "y": 2.2607,
+                        "z": -343.1223
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 185.300659179688,
+                        "z": 0
+                    },
+                    "Width": 6.845,
+                    "Height": 154.5214,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/老柏树_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "老柏树_face_4",
+                    "Position": {
+                        "x": 129.1521,
+                        "y": 2.2607,
+                        "z": -253.9732
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 166.661148071289,
+                        "z": 0
+                    },
+                    "Width": 775.5665,
+                    "Height": 154.5214,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/老柏树_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "老柏树_face_5",
+                    "Position": {
+                        "x": -248.1036,
+                        "y": 2.2607,
+                        "z": -164.2286
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 76.6638793945313,
+                        "z": 0
+                    },
+                    "Width": 0.5739,
+                    "Height": 154.5214,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/老柏树_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "老柏树_face_7",
+                    "Position": {
+                        "x": -150.0326,
+                        "y": 2.2607,
+                        "z": 250.1027
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 76.5354232788086,
+                        "z": 0
+                    },
+                    "Width": 150.2655,
+                    "Height": 154.5214,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/老柏树_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "老柏树_up",
+                    "Position": {
+                        "x": 186.9678,
+                        "y": 79.5214,
+                        "z": -10.1341
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 870.2753,
+                    "Height": 666.6088,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/老柏树_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "老柏树_down",
+                    "Position": {
+                        "x": 186.9678,
+                        "y": -75,
+                        "z": -10.1341
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 870.2753,
+                    "Height": 666.6088,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/老柏树_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "老柏树-1"
+            ]
+        },
+        {
+            "Name": "大楼左侧侧面",
+            "Position": {
+                "x": 1113.6075,
+                "y": 1.8,
+                "z": -444.5422
+            },
+            "Rotation": 337.760894775391,
+            "RoomFaces": [
+                {
+                    "Name": "大楼左侧侧面_face_0",
+                    "Position": {
+                        "x": 82.2921,
+                        "y": 3.7318,
+                        "z": 161.7304
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 330.509857177734,
+                        "z": 0
+                    },
+                    "Width": 289.8444,
+                    "Height": 157.4635,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧侧面_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧侧面_face_1",
+                    "Position": {
+                        "x": 207.2386,
+                        "y": 3.7318,
+                        "z": 88.2677
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 240.510452270508,
+                        "z": 0
+                    },
+                    "Width": 4.874,
+                    "Height": 157.4635,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧侧面_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧侧面_face_3",
+                    "Position": {
+                        "x": 75.3036,
+                        "y": 3.7318,
+                        "z": -145.0161
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 240.508895874023,
+                        "z": 0
+                    },
+                    "Width": 289.3583,
+                    "Height": 157.4635,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧侧面_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧侧面_face_4",
+                    "Position": {
+                        "x": -122.0637,
+                        "y": 3.7318,
+                        "z": -199.6078
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 150.509246826172,
+                        "z": 0
+                    },
+                    "Width": 289.84,
+                    "Height": 157.4635,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧侧面_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧侧面_face_5",
+                    "Position": {
+                        "x": -247.9646,
+                        "y": 3.7318,
+                        "z": -127.8373
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 60.5074844360352,
+                        "z": 0
+                    },
+                    "Width": 0.9853,
+                    "Height": 157.4635,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧侧面_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧侧面_face_7",
+                    "Position": {
+                        "x": -54.4425,
+                        "y": 3.7318,
+                        "z": 214.3463
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 60.513786315918,
+                        "z": 0
+                    },
+                    "Width": 43.0236,
+                    "Height": 157.4635,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧侧面_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大楼左侧侧面_up",
+                    "Position": {
+                        "x": -19.8845,
+                        "y": 82.4635,
+                        "z": -18.9388
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 456.6454,
+                    "Height": 504.0212,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧侧面_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "大楼左侧侧面_down",
+                    "Position": {
+                        "x": -19.8845,
+                        "y": -75,
+                        "z": -18.9388
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 456.6454,
+                    "Height": 504.0212,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/大楼左侧侧面_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "大楼左侧侧面-1"
+            ]
+        },
+        {
+            "Name": "门厅",
+            "Position": {
+                "x": -177.4949,
+                "y": 0.75,
+                "z": -261.8604
+            },
+            "Rotation": 358.760437011719,
+            "RoomFaces": [
+                {
+                    "Name": "门厅_face_0",
+                    "Position": {
+                        "x": 10.0559,
+                        "y": 10.6595,
+                        "z": 48.2796
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 350.813842773438,
+                        "z": 0
+                    },
+                    "Width": 167.3191,
+                    "Height": 171.319,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/门厅_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "门厅_face_1",
+                    "Position": {
+                        "x": 92.5203,
+                        "y": 10.6595,
+                        "z": 34.1683
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 260.814025878906,
+                        "z": 0
+                    },
+                    "Width": 1.5311,
+                    "Height": 171.319,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/门厅_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "门厅_face_3",
+                    "Position": {
+                        "x": 32.1148,
+                        "y": 10.6595,
+                        "z": -339.3593
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 260.813842773438,
+                        "z": 0
+                    },
+                    "Width": 6.7528,
+                    "Height": 171.319,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/门厅_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "门厅_face_4",
+                    "Position": {
+                        "x": -51.0109,
+                        "y": 10.6595,
+                        "z": -329.3367
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 170.813842773438,
+                        "z": 0
+                    },
+                    "Width": 167.3192,
+                    "Height": 171.319,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/门厅_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "门厅_face_5",
+                    "Position": {
+                        "x": -133.5915,
+                        "y": 10.6595,
+                        "z": -315.9437
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 80.8225708007813,
+                        "z": 0
+                    },
+                    "Width": 0.0757,
+                    "Height": 171.319,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/门厅_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "门厅_face_7",
+                    "Position": {
+                        "x": -72.5347,
+                        "y": 10.6595,
+                        "z": 61.6107
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 80.8224334716797,
+                        "z": 0
+                    },
+                    "Width": 0.0498,
+                    "Height": 171.319,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/门厅_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "门厅_up",
+                    "Position": {
+                        "x": -20.4775,
+                        "y": 96.319,
+                        "z": -140.5285
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 226.2401,
+                    "Height": 404.3276,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/门厅_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "门厅_down",
+                    "Position": {
+                        "x": -20.4775,
+                        "y": -75,
+                        "z": -140.5285
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 226.2401,
+                    "Height": 404.3276,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/门厅_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "门厅-1",
+                "门厅-2"
+            ]
+        },
+        {
+            "Name": "通道",
+            "Position": {
+                "x": -1610.5947,
+                "y": 0.05,
+                "z": 184.1941
+            },
+            "Rotation": 4.01445770263672,
+            "RoomFaces": [
+                {
+                    "Name": "通道_face_0",
+                    "Position": {
+                        "x": -24.1904,
+                        "y": -18.4514,
+                        "z": 40.5376
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 356.073425292969,
+                        "z": 0
+                    },
+                    "Width": 0.1031,
+                    "Height": 113.0973,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道_face_2",
+                    "Position": {
+                        "x": 125.4058,
+                        "y": -18.4514,
+                        "z": 30.255
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 356.06787109375,
+                        "z": 0
+                    },
+                    "Width": 110.5472,
+                    "Height": 113.0973,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道_face_3",
+                    "Position": {
+                        "x": 180.5357,
+                        "y": -18.4514,
+                        "z": 26.2669
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 266.067749023438,
+                        "z": 0
+                    },
+                    "Width": 0.3963,
+                    "Height": 113.0973,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道_face_5",
+                    "Position": {
+                        "x": 174.7288,
+                        "y": -18.4514,
+                        "z": -58.2148
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 266.068176269531,
+                        "z": 0
+                    },
+                    "Width": 0.2085,
+                    "Height": 113.0973,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道_face_6",
+                    "Position": {
+                        "x": 72.3261,
+                        "y": -18.4514,
+                        "z": -51.2806
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 176.067901611328,
+                        "z": 0
+                    },
+                    "Width": 205.2743,
+                    "Height": 113.0973,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道_face_7",
+                    "Position": {
+                        "x": -27.1557,
+                        "y": -18.4514,
+                        "z": -1.8506
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 86.0679092407227,
+                        "z": 0
+                    },
+                    "Width": 84.9836,
+                    "Height": 113.0973,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "通道_up",
+                    "Position": {
+                        "x": 75.2399,
+                        "y": 38.0973,
+                        "z": -8.8889
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 210.6188,
+                    "Height": 98.86,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "通道_down",
+                    "Position": {
+                        "x": 75.2399,
+                        "y": -75,
+                        "z": -8.8889
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 210.6188,
+                    "Height": 98.86,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/通道_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "通道-1"
+            ]
+        },
+        {
+            "Name": "街景一",
+            "Position": {
+                "x": -1391.125,
+                "y": 4.55,
+                "z": 682.1117
+            },
+            "Rotation": 8.47047424316406,
+            "RoomFaces": [
+                {
+                    "Name": "街景一_face_0",
+                    "Position": {
+                        "x": 215.3477,
+                        "y": -0.7195,
+                        "z": 78.3194
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 1.22019958496094,
+                        "z": 0
+                    },
+                    "Width": 722.8882,
+                    "Height": 148.561,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景一_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景一_face_1",
+                    "Position": {
+                        "x": 576.7139,
+                        "y": -0.7195,
+                        "z": 85.8236
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 271.215759277344,
+                        "z": 0
+                    },
+                    "Width": 0.3855,
+                    "Height": 148.561,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景一_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景一_face_3",
+                    "Position": {
+                        "x": 580.775,
+                        "y": -0.7195,
+                        "z": -104.9118
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 271.220642089844,
+                        "z": 0
+                    },
+                    "Width": 2.1832,
+                    "Height": 148.561,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景一_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景一_face_4",
+                    "Position": {
+                        "x": 432.3163,
+                        "y": -0.7195,
+                        "z": -109.166
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 181.220275878906,
+                        "z": 0
+                    },
+                    "Width": 297.0312,
+                    "Height": 148.561,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景一_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景一_face_6",
+                    "Position": {
+                        "x": -141.8507,
+                        "y": -0.7195,
+                        "z": -121.3954
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 181.146453857422,
+                        "z": 0
+                    },
+                    "Width": 0.1506,
+                    "Height": 148.561,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景一_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景一_face_7",
+                    "Position": {
+                        "x": -143.9702,
+                        "y": -0.7195,
+                        "z": -25.3872
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 91.2197723388672,
+                        "z": 0
+                    },
+                    "Width": 192.063,
+                    "Height": 148.561,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景一_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景一_up",
+                    "Position": {
+                        "x": 217.3919,
+                        "y": 73.561,
+                        "z": -17.6903
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 726.8127,
+                    "Height": 207.4132,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景一_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "街景一_down",
+                    "Position": {
+                        "x": 217.3919,
+                        "y": -75,
+                        "z": -17.6903
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 726.8127,
+                    "Height": 207.4132,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景一_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "街景一-1"
+            ]
+        },
+        {
+            "Name": "街景二",
+            "Position": {
+                "x": -184.2677,
+                "y": 3.9,
+                "z": 492.9855
+            },
+            "Rotation": 3.79869937896729,
+            "RoomFaces": [
+                {
+                    "Name": "街景二_face_0",
+                    "Position": {
+                        "x": -116.8914,
+                        "y": -19.4091,
+                        "z": 88.1255
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 356.547973632813,
+                        "z": 0
+                    },
+                    "Width": 1041.3612,
+                    "Height": 111.1818,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景二_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景二_face_1",
+                    "Position": {
+                        "x": 402.8092,
+                        "y": -19.4091,
+                        "z": 56.1887
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 266.550598144531,
+                        "z": 0
+                    },
+                    "Width": 1.1727,
+                    "Height": 111.1818,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景二_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景二_face_3",
+                    "Position": {
+                        "x": 392.3336,
+                        "y": -19.4091,
+                        "z": -117.4718
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 86.5486297607422,
+                        "z": 0
+                    },
+                    "Width": 19.6129,
+                    "Height": 111.1818,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景二_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景二_face_4",
+                    "Position": {
+                        "x": -126.8118,
+                        "y": -19.4091,
+                        "z": -76.3313
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 176.547943115234,
+                        "z": 0
+                    },
+                    "Width": 1041.3612,
+                    "Height": 111.1818,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景二_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景二_face_5",
+                    "Position": {
+                        "x": -646.4386,
+                        "y": -19.4091,
+                        "z": -43.1712
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 86.5482330322266,
+                        "z": 0
+                    },
+                    "Width": 3.6231,
+                    "Height": 111.1818,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景二_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景二_face_7",
+                    "Position": {
+                        "x": -635.8132,
+                        "y": -19.4091,
+                        "z": 132.9738
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 266.548034667969,
+                        "z": 0
+                    },
+                    "Width": 27.0427,
+                    "Height": 111.1818,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景二_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景二_up",
+                    "Position": {
+                        "x": -121.8516,
+                        "y": 36.1818,
+                        "z": 9.605
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 1049.3921,
+                    "Height": 273.7311,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景二_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "街景二_down",
+                    "Position": {
+                        "x": -121.8516,
+                        "y": -75,
+                        "z": 9.605
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 1049.3921,
+                    "Height": 273.7311,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景二_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "街景二-1"
+            ]
+        },
+        {
+            "Name": "街景三",
+            "Position": {
+                "x": 565.4371,
+                "y": 3.3,
+                "z": 376.433
+            },
+            "Rotation": 14.4988794326782,
+            "RoomFaces": [
+                {
+                    "Name": "街景三_face_0",
+                    "Position": {
+                        "x": 17.3812,
+                        "y": -18.5093,
+                        "z": 91.6984
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 7.24797058105469,
+                        "z": 0
+                    },
+                    "Width": 777.0732,
+                    "Height": 112.9814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景三_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景三_face_1",
+                    "Position": {
+                        "x": 402.8577,
+                        "y": -18.5093,
+                        "z": 140.367
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 277.247436523438,
+                        "z": 0
+                    },
+                    "Width": 0.7068,
+                    "Height": 112.9814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景三_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景三_face_3",
+                    "Position": {
+                        "x": 425.67,
+                        "y": -18.5093,
+                        "z": -39.004
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 97.247200012207,
+                        "z": 0
+                    },
+                    "Width": 12.903,
+                    "Height": 112.9814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景三_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景三_face_4",
+                    "Position": {
+                        "x": 39.4248,
+                        "y": -18.5093,
+                        "z": -81.6248
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 187.248199462891,
+                        "z": 0
+                    },
+                    "Width": 777.0724,
+                    "Height": 112.9814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景三_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景三_face_5",
+                    "Position": {
+                        "x": -346.3544,
+                        "y": -18.5093,
+                        "z": -127.9103
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 97.2477722167969,
+                        "z": 0
+                    },
+                    "Width": 5.5147,
+                    "Height": 112.9814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景三_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景三_face_7",
+                    "Position": {
+                        "x": -368.6796,
+                        "y": -18.5093,
+                        "z": 47.6241
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 277.247680664063,
+                        "z": 0
+                    },
+                    "Width": 9.9696,
+                    "Height": 112.9814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景三_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景三_up",
+                    "Position": {
+                        "x": 28.5877,
+                        "y": 37.9814,
+                        "z": 5.036
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 795.7924,
+                    "Height": 271.3633,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景三_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "街景三_down",
+                    "Position": {
+                        "x": 28.5877,
+                        "y": -75,
+                        "z": 5.036
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 795.7924,
+                    "Height": 271.3633,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景三_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "街景三-1"
+            ]
+        },
+        {
+            "Name": "入口二",
+            "Position": {
+                "x": 1387.4913,
+                "y": 2.25,
+                "z": -325.6182
+            },
+            "Rotation": 15.9963045120239,
+            "RoomFaces": [
+                {
+                    "Name": "入口二_face_0",
+                    "Position": {
+                        "x": -192.6003,
+                        "y": -24.5013,
+                        "z": 472.2729
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 8.74761199951172,
+                        "z": 0
+                    },
+                    "Width": 2.3839,
+                    "Height": 100.9974,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口二_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口二_face_2",
+                    "Position": {
+                        "x": 76.8679,
+                        "y": -24.5013,
+                        "z": 513.726
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 8.74727630615234,
+                        "z": 0
+                    },
+                    "Width": 12.0054,
+                    "Height": 100.9974,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口二_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口二_face_3",
+                    "Position": {
+                        "x": 128.4032,
+                        "y": -24.5013,
+                        "z": 218.2016
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 278.745544433594,
+                        "z": 0
+                    },
+                    "Width": 599.8488,
+                    "Height": 100.9974,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口二_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口二_face_4",
+                    "Position": {
+                        "x": 35.7157,
+                        "y": -24.5013,
+                        "z": -99.5095
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 188.745544433594,
+                        "z": 0
+                    },
+                    "Width": 279.8333,
+                    "Height": 100.9974,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口二_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口二_face_5",
+                    "Position": {
+                        "x": -102.9848,
+                        "y": -24.5013,
+                        "z": -118.114
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 98.7453384399414,
+                        "z": 0
+                    },
+                    "Width": 5.4014,
+                    "Height": 100.9974,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口二_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口二_face_7",
+                    "Position": {
+                        "x": -157.9845,
+                        "y": -24.5013,
+                        "z": 239.4124
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 98.7454681396484,
+                        "z": 0
+                    },
+                    "Width": 470.8326,
+                    "Height": 100.9974,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口二_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "入口二_up",
+                    "Position": {
+                        "x": -9.8864,
+                        "y": 25.9974,
+                        "z": 196.9277
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 367.784,
+                    "Height": 635.4221,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口二_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "入口二_down",
+                    "Position": {
+                        "x": -9.8864,
+                        "y": -75,
+                        "z": 196.9277
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 367.784,
+                    "Height": 635.4221,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/入口二_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "入口二-1",
+                "入口二-2"
+            ]
+        },
+        {
+            "Name": "街景四",
+            "Position": {
+                "x": 1435.2333,
+                "y": 2.75,
+                "z": 242.9616
+            },
+            "Rotation": 357.964477539063,
+            "RoomFaces": [
+                {
+                    "Name": "街景四_face_0",
+                    "Position": {
+                        "x": -116.7477,
+                        "y": 0.3293,
+                        "z": 128.0519
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 350.713562011719,
+                        "z": 0
+                    },
+                    "Width": 652.9144,
+                    "Height": 150.6586,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景四_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景四_face_1",
+                    "Position": {
+                        "x": 190.7843,
+                        "y": 0.3293,
+                        "z": -14.2025
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 260.713531494141,
+                        "z": 0
+                    },
+                    "Width": 181.5269,
+                    "Height": 150.6586,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景四_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景四_face_2",
+                    "Position": {
+                        "x": 175.5284,
+                        "y": 0.3293,
+                        "z": -103.6767
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 170.709808349609,
+                        "z": 0
+                    },
+                    "Width": 1.235,
+                    "Height": 150.6586,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景四_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景四_face_4",
+                    "Position": {
+                        "x": -294.2687,
+                        "y": 0.3293,
+                        "z": -26.8585
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 170.71354675293,
+                        "z": 0
+                    },
+                    "Width": 352.5213,
+                    "Height": 150.6586,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景四_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景四_face_5",
+                    "Position": {
+                        "x": -467.8021,
+                        "y": 0.3293,
+                        "z": 4.1368
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 80.7138900756836,
+                        "z": 0
+                    },
+                    "Width": 5.1717,
+                    "Height": 150.6586,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景四_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景四_face_7",
+                    "Position": {
+                        "x": -439.2691,
+                        "y": 0.3293,
+                        "z": 178.6356
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 80.7157287597656,
+                        "z": 0
+                    },
+                    "Width": 4.2493,
+                    "Height": 150.6586,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景四_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "街景四_up",
+                    "Position": {
+                        "x": -131.3942,
+                        "y": 75.6586,
+                        "z": 38.478
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 673.6502,
+                    "Height": 284.5088,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景四_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "街景四_down",
+                    "Position": {
+                        "x": -131.3942,
+                        "y": -75,
+                        "z": 38.478
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 673.6502,
+                    "Height": 284.5088,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/RoomFaces/街景四_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "街景四-1"
+            ]
+        }
+    ],
+    "HotSpots": [
+        {
+            "Name": "入口一-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010180_20170118144633.JPG",
+            "Position": {
+                "x": -1551.6674,
+                "y": 0,
+                "z": 475.6271
+            },
+            "VisibleHotSpots": [
+                "通道-1",
+                "街景一-1",
+                "入口一-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "入口一-3",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010181_20170118144713.JPG",
+            "Position": {
+                "x": -1588.0368,
+                "y": 0,
+                "z": 265.8502
+            },
+            "VisibleHotSpots": [
+                "入口一-1",
+                "通道-1",
+                "街景一-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 359.0134,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "通道中-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010183_20170118144942.JPG",
+            "Position": {
+                "x": -1282.1785,
+                "y": 0.15,
+                "z": 121.5012
+            },
+            "VisibleHotSpots": [
+                "通道上-1",
+                "通道-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 4.0019,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "通道上-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010184_20170118145021.JPG",
+            "Position": {
+                "x": -843.5134,
+                "y": 0.3,
+                "z": 70.2943
+            },
+            "VisibleHotSpots": [
+                "通道中-1",
+                "大楼右侧-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 355.3668,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "大楼右侧-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010185_20170118145102.JPG",
+            "Position": {
+                "x": -878.2972,
+                "y": 0.5,
+                "z": -202.2675
+            },
+            "VisibleHotSpots": [
+                "通道上-1",
+                "门厅-1",
+                "门厅-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 8.1994,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "大楼左侧-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010188_20170118145338.JPG",
+            "Position": {
+                "x": 119.1445,
+                "y": 1.05,
+                "z": -372.7398
+            },
+            "VisibleHotSpots": [
+                "老柏树-1",
+                "门厅-1",
+                "门厅-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 4.7582,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "老柏树-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010189_20170118145423.JPG",
+            "Position": {
+                "x": 381.6841,
+                "y": 1.4,
+                "z": -424.6895
+            },
+            "VisibleHotSpots": [
+                "大楼左侧-1",
+                "大楼左侧侧面-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 354.6616,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "大楼左侧侧面-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010190_20170118145511.JPG",
+            "Position": {
+                "x": 1113.6075,
+                "y": 1.8,
+                "z": -444.5422
+            },
+            "VisibleHotSpots": [
+                "老柏树-1",
+                "入口二-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 337.7609,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "门厅-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010186_20170118145200.JPG",
+            "Position": {
+                "x": -177.4949,
+                "y": 0.75,
+                "z": -261.8604
+            },
+            "VisibleHotSpots": [
+                "大楼右侧-1",
+                "大楼左侧-1",
+                "门厅-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 358.7604,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "门厅-2",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010187_20170118145245.JPG",
+            "Position": {
+                "x": -193.2115,
+                "y": 0.75,
+                "z": -476.8501
+            },
+            "VisibleHotSpots": [
+                "大楼右侧-1",
+                "大楼左侧-1",
+                "门厅-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 365.8645,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "通道-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010182_20170118144901.JPG",
+            "Position": {
+                "x": -1610.5947,
+                "y": 0.05,
+                "z": 184.1941
+            },
+            "VisibleHotSpots": [
+                "入口一-1",
+                "入口一-3",
+                "通道中-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 4.0145,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "街景一-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010179_20170118144548.JPG",
+            "Position": {
+                "x": -1391.125,
+                "y": 4.55,
+                "z": 682.1117
+            },
+            "VisibleHotSpots": [
+                "入口一-1",
+                "入口一-3",
+                "街景二-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 8.4705,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "街景二-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010195_20170118150053.JPG",
+            "Position": {
+                "x": -184.2677,
+                "y": 3.9,
+                "z": 492.9855
+            },
+            "VisibleHotSpots": [
+                "街景一-1",
+                "街景三-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 3.7987,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "街景三-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010194_20170118145922.JPG",
+            "Position": {
+                "x": 565.4371,
+                "y": 3.3,
+                "z": 376.433
+            },
+            "VisibleHotSpots": [
+                "街景二-1",
+                "街景四-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 14.4989,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "入口二-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010191_20170118145557.JPG",
+            "Position": {
+                "x": 1387.4913,
+                "y": 2.25,
+                "z": -325.6182
+            },
+            "VisibleHotSpots": [
+                "大楼左侧侧面-1",
+                "街景四-1",
+                "入口二-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 15.9963,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "入口二-2",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010192_20170118145645.JPG",
+            "Position": {
+                "x": 1381.0749,
+                "y": 2.25,
+                "z": -93.4782
+            },
+            "VisibleHotSpots": [
+                "入口二-1",
+                "街景四-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 368.3482,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "街景四-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/外景/PanoramaImages/R0010193_20170118145804.JPG",
+            "Position": {
+                "x": 1435.2333,
+                "y": 2.75,
+                "z": 242.9616
+            },
+            "VisibleHotSpots": [
+                "街景三-1",
+                "入口二-1",
+                "入口二-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 357.9645,
+                "z": 0
+            },
+            "Type": "Room"
+        }
+    ],
+    "Name": "外景",
+    "CameraHeight": 75
+}

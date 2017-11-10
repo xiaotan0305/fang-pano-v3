@@ -1,0 +1,2419 @@
+{
+    "Rooms": [
+        {
+            "Name": "右侧大堂",
+            "Position": {
+                "x": -381.7216,
+                "y": 0,
+                "z": 164.1646
+            },
+            "Rotation": 0,
+            "RoomFaces": [
+                {
+                    "Name": "右侧大堂_face_0",
+                    "Position": {
+                        "x": -31.5656,
+                        "y": 40.8192,
+                        "z": 118.4036
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0.355857849121094,
+                        "z": 0
+                    },
+                    "Width": 157.5039,
+                    "Height": 231.6383,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧大堂_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧大堂_face_1",
+                    "Position": {
+                        "x": 47.2738,
+                        "y": 40.8192,
+                        "z": 104.5764
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270.356018066406,
+                        "z": 0
+                    },
+                    "Width": 28.6332,
+                    "Height": 231.6383,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧大堂_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧大堂_face_3",
+                    "Position": {
+                        "x": 48.2866,
+                        "y": 40.8192,
+                        "z": -58.457
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90.3589706420898,
+                        "z": 0
+                    },
+                    "Width": 11.1369,
+                    "Height": 231.6383,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧大堂_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧大堂_face_5",
+                    "Position": {
+                        "x": 48.3344,
+                        "y": 40.8192,
+                        "z": -73.0617
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270.356018066406,
+                        "z": 0
+                    },
+                    "Width": 40.3466,
+                    "Height": 231.6383,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧大堂_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧大堂_face_9",
+                    "Position": {
+                        "x": -37.4919,
+                        "y": 40.8192,
+                        "z": -73.5951
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90.3560104370117,
+                        "z": 0
+                    },
+                    "Width": 40.3466,
+                    "Height": 231.6383,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧大堂_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧大堂_face_10",
+                    "Position": {
+                        "x": -73.4332,
+                        "y": 40.8192,
+                        "z": -53.6446
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180.355682373047,
+                        "z": 0
+                    },
+                    "Width": 71.6332,
+                    "Height": 231.6383,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧大堂_face_10.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧大堂_face_13",
+                    "Position": {
+                        "x": -110.027,
+                        "y": 40.8192,
+                        "z": 71.3629
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90.3556594848633,
+                        "z": 0
+                    },
+                    "Width": 93.105,
+                    "Height": 231.6383,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧大堂_face_13.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧大堂_up",
+                    "Position": {
+                        "x": -30.9281,
+                        "y": 156.6383,
+                        "z": 12.5624
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 158.7757,
+                    "Height": 212.6608,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧大堂_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "右侧大堂_down",
+                    "Position": {
+                        "x": -30.9281,
+                        "y": -75,
+                        "z": 12.5624
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 158.7757,
+                    "Height": 212.6608,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧大堂_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "右侧大堂-1"
+            ]
+        },
+        {
+            "Name": "左侧大堂",
+            "Position": {
+                "x": 431.5095,
+                "y": 1.05,
+                "z": 183.5721
+            },
+            "Rotation": 354.048065185547,
+            "RoomFaces": [
+                {
+                    "Name": "左侧大堂_face_0",
+                    "Position": {
+                        "x": 43.2127,
+                        "y": 40.4031,
+                        "z": 108.4987
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 354.978668212891,
+                        "z": 0
+                    },
+                    "Width": 161.4298,
+                    "Height": 230.8062,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧大堂_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧大堂_face_1",
+                    "Position": {
+                        "x": 120.0357,
+                        "y": 40.4031,
+                        "z": 60.6649
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 264.978668212891,
+                        "z": 0
+                    },
+                    "Width": 81.8524,
+                    "Height": 230.8062,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧大堂_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧大堂_face_4",
+                    "Position": {
+                        "x": 70.6016,
+                        "y": 40.4031,
+                        "z": -60.081
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 174.978881835938,
+                        "z": 0
+                    },
+                    "Width": 77.3517,
+                    "Height": 230.8062,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧大堂_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧大堂_face_5",
+                    "Position": {
+                        "x": 30.1138,
+                        "y": 40.4031,
+                        "z": -79.0082
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 264.978881835938,
+                        "z": 0
+                    },
+                    "Width": 44.7963,
+                    "Height": 230.8062,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧大堂_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧大堂_face_9",
+                    "Position": {
+                        "x": -53.4288,
+                        "y": 40.4031,
+                        "z": -71.6681
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 84.9788589477539,
+                        "z": 0
+                    },
+                    "Width": 44.7963,
+                    "Height": 230.8062,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧大堂_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧大堂_face_13",
+                    "Position": {
+                        "x": -38.5134,
+                        "y": 40.4031,
+                        "z": 100.5285
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 84.978874206543,
+                        "z": 0
+                    },
+                    "Width": 30.1857,
+                    "Height": 230.8062,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧大堂_face_13.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧大堂_up",
+                    "Position": {
+                        "x": 34.1143,
+                        "y": 155.8062,
+                        "z": 7.1215
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 179.007,
+                    "Height": 216.8838,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧大堂_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "左侧大堂_down",
+                    "Position": {
+                        "x": 34.1143,
+                        "y": -75,
+                        "z": 7.1215
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 179.007,
+                    "Height": 216.8838,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧大堂_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "左侧大堂-1"
+            ]
+        },
+        {
+            "Name": "左会客厅",
+            "Position": {
+                "x": 663.5781,
+                "y": 1.5,
+                "z": 171.7968
+            },
+            "Rotation": 359.069396972656,
+            "RoomFaces": [
+                {
+                    "Name": "左会客厅_face_0",
+                    "Position": {
+                        "x": -32.4553,
+                        "y": 38.8467,
+                        "z": 132.7518
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 170.2528,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_face_2",
+                    "Position": {
+                        "x": 60.089,
+                        "y": 38.8467,
+                        "z": 131.7907
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 14.8358,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_face_3",
+                    "Position": {
+                        "x": 67.507,
+                        "y": 38.8467,
+                        "z": 70.955
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270,
+                        "z": 0
+                    },
+                    "Width": 121.6715,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_face_5",
+                    "Position": {
+                        "x": 67.507,
+                        "y": 38.8467,
+                        "z": -31.4597
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270,
+                        "z": 0
+                    },
+                    "Width": 9.4087,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_face_6",
+                    "Position": {
+                        "x": 60.089,
+                        "y": 38.8467,
+                        "z": -36.1641
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180,
+                        "z": 0
+                    },
+                    "Width": 14.8358,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_face_9",
+                    "Position": {
+                        "x": 52.6676,
+                        "y": 38.8467,
+                        "z": -60.3061
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270,
+                        "z": 0
+                    },
+                    "Width": 47.902,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_face_13",
+                    "Position": {
+                        "x": -74.3132,
+                        "y": 38.8467,
+                        "z": -60.3061
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90,
+                        "z": 0
+                    },
+                    "Width": 47.902,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_13.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_face_14",
+                    "Position": {
+                        "x": -95.9474,
+                        "y": 38.8467,
+                        "z": -36.3551
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180,
+                        "z": 0
+                    },
+                    "Width": 43.2685,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_14.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_face_15",
+                    "Position": {
+                        "x": -117.5817,
+                        "y": 38.8467,
+                        "z": -35.5311
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90,
+                        "z": 0
+                    },
+                    "Width": 1.6479,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_15.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_face_17",
+                    "Position": {
+                        "x": -117.5817,
+                        "y": 38.8467,
+                        "z": 87.6708
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90,
+                        "z": 0
+                    },
+                    "Width": 90.1619,
+                    "Height": 227.6934,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_face_17.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左会客厅_up",
+                    "Position": {
+                        "x": -25.0374,
+                        "y": 152.6934,
+                        "z": 24.2473
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 185.0887,
+                    "Height": 217.0089,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "左会客厅_down",
+                    "Position": {
+                        "x": -25.0374,
+                        "y": -75,
+                        "z": 24.2473
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 185.0887,
+                    "Height": 217.0089,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左会客厅_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "左会客厅-1"
+            ]
+        },
+        {
+            "Name": "信箱大厅",
+            "Position": {
+                "x": -651.4213,
+                "y": 0.3,
+                "z": -245.7404
+            },
+            "Rotation": 0.401336669921875,
+            "RoomFaces": [
+                {
+                    "Name": "信箱大厅_face_0",
+                    "Position": {
+                        "x": -84.96,
+                        "y": -14.5424,
+                        "z": 29.0162
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0.757530212402344,
+                        "z": 0
+                    },
+                    "Width": 64.4356,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/信箱大厅_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "信箱大厅_face_1",
+                    "Position": {
+                        "x": -52.9443,
+                        "y": -14.5424,
+                        "z": 44.516
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90.7574157714844,
+                        "z": 0
+                    },
+                    "Width": 30.1503,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/信箱大厅_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "信箱大厅_face_5",
+                    "Position": {
+                        "x": 75.2141,
+                        "y": -14.5424,
+                        "z": 46.2104
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270.757385253906,
+                        "z": 0
+                    },
+                    "Width": 30.1503,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/信箱大厅_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "信箱大厅_face_6",
+                    "Position": {
+                        "x": 97.8138,
+                        "y": -14.5424,
+                        "z": 31.4326
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0.7572021484375,
+                        "z": 0
+                    },
+                    "Width": 44.8046,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/信箱大厅_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "信箱大厅_face_7",
+                    "Position": {
+                        "x": 120.9637,
+                        "y": -14.5424,
+                        "z": -24.9679
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270.757385253906,
+                        "z": 0
+                    },
+                    "Width": 113.4029,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/信箱大厅_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "信箱大厅_face_8",
+                    "Position": {
+                        "x": 3.0186,
+                        "y": -14.5424,
+                        "z": -83.2335
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180.757415771484,
+                        "z": 0
+                    },
+                    "Width": 237.4099,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/信箱大厅_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "信箱大厅_face_9",
+                    "Position": {
+                        "x": -116.1183,
+                        "y": -14.5424,
+                        "z": -51.3446
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90.7574081420898,
+                        "z": 0
+                    },
+                    "Width": 66.9221,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/信箱大厅_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "信箱大厅_up",
+                    "Position": {
+                        "x": 2.2691,
+                        "y": 45.9152,
+                        "z": -11.7592
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 238.8882,
+                    "Height": 146.0869,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/信箱大厅_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "信箱大厅_down",
+                    "Position": {
+                        "x": 2.2691,
+                        "y": -75,
+                        "z": -11.7592
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 238.8882,
+                    "Height": 146.0869,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/信箱大厅_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "信箱大厅-1"
+            ]
+        },
+        {
+            "Name": "右会客厅一",
+            "Position": {
+                "x": -626.9653,
+                "y": 0.15,
+                "z": -63.6008
+            },
+            "Rotation": 0.120986945927143,
+            "RoomFaces": [
+                {
+                    "Name": "右会客厅一_face_0",
+                    "Position": {
+                        "x": -119.9274,
+                        "y": 45.7157,
+                        "z": 119.3087
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0.477378845214844,
+                        "z": 0
+                    },
+                    "Width": 84.2791,
+                    "Height": 241.4313,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅一_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅一_face_2",
+                    "Position": {
+                        "x": 75.4931,
+                        "y": 45.7157,
+                        "z": 120.9359
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0.4764404296875,
+                        "z": 0
+                    },
+                    "Width": 39.0469,
+                    "Height": 241.4313,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅一_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅一_face_3",
+                    "Position": {
+                        "x": 96.0233,
+                        "y": 45.7157,
+                        "z": 0.1025
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270.47705078125,
+                        "z": 0
+                    },
+                    "Width": 241.9999,
+                    "Height": 241.4313,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅一_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅一_face_4",
+                    "Position": {
+                        "x": 74.8869,
+                        "y": 45.7157,
+                        "z": -121.0777
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180.477188110352,
+                        "z": 0
+                    },
+                    "Width": 44.2894,
+                    "Height": 241.4313,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅一_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅一_face_6",
+                    "Position": {
+                        "x": -119.0554,
+                        "y": 45.7157,
+                        "z": -122.6925
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180.477111816406,
+                        "z": 0
+                    },
+                    "Width": 81.9929,
+                    "Height": 241.4313,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅一_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅一_face_7",
+                    "Position": {
+                        "x": -161.058,
+                        "y": 45.7157,
+                        "z": -2.0381
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90.4770736694336,
+                        "z": 0
+                    },
+                    "Width": 241.9999,
+                    "Height": 241.4313,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅一_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅一_up",
+                    "Position": {
+                        "x": -32.5173,
+                        "y": 166.4313,
+                        "z": -0.9678
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 259.0963,
+                    "Height": 244.1322,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅一_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "右会客厅一_down",
+                    "Position": {
+                        "x": -32.5173,
+                        "y": -75,
+                        "z": -0.9678
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 259.0963,
+                    "Height": 244.1322,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅一_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "右会客厅一-1"
+            ]
+        },
+        {
+            "Name": "右会客厅二",
+            "Position": {
+                "x": -626.3728,
+                "y": 0.05,
+                "z": 150.904
+            },
+            "Rotation": 359.643920898438,
+            "RoomFaces": [
+                {
+                    "Name": "右会客厅二_face_0",
+                    "Position": {
+                        "x": 4.4728,
+                        "y": 39.1665,
+                        "z": 137.3395
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 193.2504,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_face_1",
+                    "Position": {
+                        "x": 101.0979,
+                        "y": 39.1665,
+                        "z": 88.2148
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270,
+                        "z": 0
+                    },
+                    "Width": 98.2494,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_face_2",
+                    "Position": {
+                        "x": 118.1225,
+                        "y": 39.1665,
+                        "z": 38.72
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 358.754455566406,
+                        "z": 0
+                    },
+                    "Width": 34.0572,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_face_6",
+                    "Position": {
+                        "x": 118.1225,
+                        "y": 39.1665,
+                        "z": -42.7262
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 178.754440307617,
+                        "z": 0
+                    },
+                    "Width": 34.0572,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_face_7",
+                    "Position": {
+                        "x": 101.0979,
+                        "y": 39.1665,
+                        "z": -43.0878
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270,
+                        "z": 0
+                    },
+                    "Width": 1.4633,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_face_8",
+                    "Position": {
+                        "x": 77.7803,
+                        "y": 39.1664,
+                        "z": -43.8194
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180,
+                        "z": 0
+                    },
+                    "Width": 46.6353,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_face_9",
+                    "Position": {
+                        "x": 54.1446,
+                        "y": 39.1664,
+                        "z": -69.0065
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 269.276641845703,
+                        "z": 0
+                    },
+                    "Width": 50.3782,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_face_13",
+                    "Position": {
+                        "x": -77.1816,
+                        "y": 39.1664,
+                        "z": -69.0065
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 89.2766571044922,
+                        "z": 0
+                    },
+                    "Width": 50.3781,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_13.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_face_14",
+                    "Position": {
+                        "x": -84.508,
+                        "y": 39.1664,
+                        "z": -43.8194
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180,
+                        "z": 0
+                    },
+                    "Width": 15.2889,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_14.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_face_15",
+                    "Position": {
+                        "x": -92.1524,
+                        "y": 39.1665,
+                        "z": 46.76
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90,
+                        "z": 0
+                    },
+                    "Width": 181.159,
+                    "Height": 228.3329,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_face_15.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右会客厅二_up",
+                    "Position": {
+                        "x": 21.4973,
+                        "y": 153.3329,
+                        "z": 21.573
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 227.2996,
+                    "Height": 231.5331,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "右会客厅二_down",
+                    "Position": {
+                        "x": 21.4973,
+                        "y": -75,
+                        "z": 21.573
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 227.2996,
+                    "Height": 231.5331,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右会客厅二_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "右会客厅二-1"
+            ]
+        },
+        {
+            "Name": "右侧前台",
+            "Position": {
+                "x": -56.6214,
+                "y": 0.3,
+                "z": 165.7713
+            },
+            "Rotation": 2.30346655845642,
+            "RoomFaces": [
+                {
+                    "Name": "右侧前台_face_0",
+                    "Position": {
+                        "x": -203.916,
+                        "y": 40.3391,
+                        "z": 108.9534
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 2.65928649902344,
+                        "z": 0
+                    },
+                    "Width": 157.0793,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_1",
+                    "Position": {
+                        "x": -124.4683,
+                        "y": 40.3391,
+                        "z": 91.2271
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 272.659606933594,
+                        "z": 0
+                    },
+                    "Width": 42.7866,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_2",
+                    "Position": {
+                        "x": -102.7071,
+                        "y": 40.3391,
+                        "z": 70.8217
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 2.65985870361328,
+                        "z": 0
+                    },
+                    "Width": 41.5818,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_3",
+                    "Position": {
+                        "x": -82.9312,
+                        "y": 40.3391,
+                        "z": 93.1568
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 92.659553527832,
+                        "z": 0
+                    },
+                    "Width": 42.7866,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_4",
+                    "Position": {
+                        "x": -3.8239,
+                        "y": 40.3391,
+                        "z": 118.2478
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 2.6595458984375,
+                        "z": 0
+                    },
+                    "Width": 160.3728,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_5",
+                    "Position": {
+                        "x": 78.6466,
+                        "y": 40.3391,
+                        "z": 70.936
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 272.659484863281,
+                        "z": 0
+                    },
+                    "Width": 102.1752,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_6",
+                    "Position": {
+                        "x": 96.9659,
+                        "y": 40.3391,
+                        "z": 20.6442
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 2.65950775146484,
+                        "z": 0
+                    },
+                    "Width": 31.9321,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_10",
+                    "Position": {
+                        "x": 100.6555,
+                        "y": 40.3391,
+                        "z": -58.786
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 182.659454345703,
+                        "z": 0
+                    },
+                    "Width": 31.9321,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_10.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_12",
+                    "Position": {
+                        "x": -94.6162,
+                        "y": 40.3391,
+                        "z": -67.8809
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 182.659210205078,
+                        "z": 0
+                    },
+                    "Width": 359.0347,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_12.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_13",
+                    "Position": {
+                        "x": -273.9717,
+                        "y": 40.3391,
+                        "z": -75.5325
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 92.6576690673828,
+                        "z": 0
+                    },
+                    "Width": 1.3558,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_13.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_face_15",
+                    "Position": {
+                        "x": -281.6808,
+                        "y": 40.3391,
+                        "z": 90.4401
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 92.6582183837891,
+                        "z": 0
+                    },
+                    "Width": 29.7707,
+                    "Height": 230.6783,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_face_15.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "右侧前台_up",
+                    "Position": {
+                        "x": -82.8834,
+                        "y": 155.6783,
+                        "z": 22.8794
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 398.9754,
+                    "Height": 198.1782,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "右侧前台_down",
+                    "Position": {
+                        "x": -82.8834,
+                        "y": -75,
+                        "z": 22.8794
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 398.9754,
+                    "Height": 198.1782,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/右侧前台_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "右侧前台-1"
+            ]
+        },
+        {
+            "Name": "左侧前台",
+            "Position": {
+                "x": 139.7866,
+                "y": 0.65,
+                "z": 159.09
+            },
+            "Rotation": 357.355285644531,
+            "RoomFaces": [
+                {
+                    "Name": "左侧前台_face_0",
+                    "Position": {
+                        "x": 3.6305,
+                        "y": 38.9744,
+                        "z": 127.9251
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 357.711273193359,
+                        "z": 0
+                    },
+                    "Width": 162.1926,
+                    "Height": 227.9489,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧前台_face_1",
+                    "Position": {
+                        "x": 83.9109,
+                        "y": 38.9744,
+                        "z": 105.8913
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 267.711273193359,
+                        "z": 0
+                    },
+                    "Width": 37.6206,
+                    "Height": 227.9489,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧前台_face_2",
+                    "Position": {
+                        "x": 102.8926,
+                        "y": 38.9744,
+                        "z": 86.3073
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 357.711181640625,
+                        "z": 0
+                    },
+                    "Width": 39.4971,
+                    "Height": 227.9489,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧前台_face_3",
+                    "Position": {
+                        "x": 123.3766,
+                        "y": 38.9744,
+                        "z": 104.3138
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 87.7111434936523,
+                        "z": 0
+                    },
+                    "Width": 37.6206,
+                    "Height": 227.9489,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧前台_face_4",
+                    "Position": {
+                        "x": 187.2648,
+                        "y": 38.9744,
+                        "z": 120.5858
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 357.711303710938,
+                        "z": 0
+                    },
+                    "Width": 126.3748,
+                    "Height": 227.9489,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧前台_face_5",
+                    "Position": {
+                        "x": 249.4704,
+                        "y": 38.9744,
+                        "z": 117.7083
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 200.815505981445,
+                        "z": 0
+                    },
+                    "Width": 1.9928,
+                    "Height": 227.9489,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧前台_face_8",
+                    "Position": {
+                        "x": 79.2131,
+                        "y": 38.9744,
+                        "z": -57.7221
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 177.711273193359,
+                        "z": 0
+                    },
+                    "Width": 328.0645,
+                    "Height": 227.9489,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧前台_face_11",
+                    "Position": {
+                        "x": -79.4881,
+                        "y": 38.9744,
+                        "z": 78.9429
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 87.7113342285156,
+                        "z": 0
+                    },
+                    "Width": 104.525,
+                    "Height": 227.9489,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_face_11.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "左侧前台_up",
+                    "Position": {
+                        "x": 82.8567,
+                        "y": 152.9489,
+                        "z": 33.4455
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 335.0901,
+                    "Height": 195.4365,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "左侧前台_down",
+                    "Position": {
+                        "x": 82.8567,
+                        "y": -75,
+                        "z": 33.4455
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 335.0901,
+                    "Height": 195.4365,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/左侧前台_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "左侧前台-1"
+            ]
+        },
+        {
+            "Name": "电梯间",
+            "Position": {
+                "x": -870.2499,
+                "y": 0.5,
+                "z": -247.2078
+            },
+            "Rotation": 357.261596679688,
+            "RoomFaces": [
+                {
+                    "Name": "电梯间_face_0",
+                    "Position": {
+                        "x": 3.54,
+                        "y": -14.5424,
+                        "z": 29.9893
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 357.617767333984,
+                        "z": 0
+                    },
+                    "Width": 199.5127,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/电梯间_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "电梯间_face_3",
+                    "Position": {
+                        "x": 100.8217,
+                        "y": -14.5424,
+                        "z": -31.5676
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 267.61767578125,
+                        "z": 0
+                    },
+                    "Width": 22.4927,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/电梯间_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "电梯间_face_4",
+                    "Position": {
+                        "x": 0.6841,
+                        "y": -14.5424,
+                        "z": -38.6577
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 177.617767333984,
+                        "z": 0
+                    },
+                    "Width": 199.5127,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/电梯间_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "电梯间_face_5",
+                    "Position": {
+                        "x": -97.5581,
+                        "y": -14.5424,
+                        "z": -0.1878
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 87.61767578125,
+                        "z": 0
+                    },
+                    "Width": 68.7064,
+                    "Height": 120.9152,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/电梯间_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "电梯间_up",
+                    "Position": {
+                        "x": 2.112,
+                        "y": 45.9152,
+                        "z": -4.3342
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 202.1962,
+                    "Height": 76.9399,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/电梯间_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "电梯间_down",
+                    "Position": {
+                        "x": 2.112,
+                        "y": -75,
+                        "z": -4.3342
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 202.1962,
+                    "Height": 76.9399,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/电梯间_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "电梯间-1"
+            ]
+        },
+        {
+            "Name": "壹号水吧",
+            "Position": {
+                "x": -385.3866,
+                "y": 0.25,
+                "z": -50.5974
+            },
+            "Rotation": 359.643951416016,
+            "RoomFaces": [
+                {
+                    "Name": "壹号水吧_face_0",
+                    "Position": {
+                        "x": -77.2389,
+                        "y": -13.9976,
+                        "z": 121.201
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 89.2166,
+                    "Height": 122.0048,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号水吧_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号水吧_face_2",
+                    "Position": {
+                        "x": 80.3986,
+                        "y": -13.9976,
+                        "z": 121.201
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 56.4329,
+                    "Height": 122.0048,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号水吧_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号水吧_face_3",
+                    "Position": {
+                        "x": 108.6151,
+                        "y": -13.9976,
+                        "z": -44.1868
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270,
+                        "z": 0
+                    },
+                    "Width": 330.7756,
+                    "Height": 122.0048,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号水吧_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号水吧_face_4",
+                    "Position": {
+                        "x": -6.6161,
+                        "y": -13.9976,
+                        "z": -209.5747
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180,
+                        "z": 0
+                    },
+                    "Width": 230.4623,
+                    "Height": 122.0048,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号水吧_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号水吧_face_5",
+                    "Position": {
+                        "x": -121.8472,
+                        "y": -13.9976,
+                        "z": -44.1868
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90,
+                        "z": 0
+                    },
+                    "Width": 330.7756,
+                    "Height": 122.0048,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号水吧_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号水吧_up",
+                    "Position": {
+                        "x": -6.6161,
+                        "y": 47.0048,
+                        "z": -44.1868
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 230.4623,
+                    "Height": 330.7756,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号水吧_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "壹号水吧_down",
+                    "Position": {
+                        "x": -6.6161,
+                        "y": -75,
+                        "z": -44.1868
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 230.4623,
+                    "Height": 330.7756,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号水吧_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "壹号水吧-1"
+            ]
+        },
+        {
+            "Name": "楼盘展示厅",
+            "Position": {
+                "x": 674.6384,
+                "y": 2.05,
+                "z": 28.3265
+            },
+            "Rotation": 0.248855620622635,
+            "RoomFaces": [
+                {
+                    "Name": "楼盘展示厅_face_0",
+                    "Position": {
+                        "x": -109.5299,
+                        "y": 46.355,
+                        "z": 57.1316
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 1.17929077148438,
+                        "z": 0
+                    },
+                    "Width": 46.8475,
+                    "Height": 242.71,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/楼盘展示厅_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼盘展示厅_face_2",
+                    "Position": {
+                        "x": 88.0717,
+                        "y": 46.355,
+                        "z": 61.1998
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 1.17948150634766,
+                        "z": 0
+                    },
+                    "Width": 85.6864,
+                    "Height": 242.71,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/楼盘展示厅_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼盘展示厅_face_3",
+                    "Position": {
+                        "x": 133.4085,
+                        "y": 46.355,
+                        "z": -59.6015
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 271.17822265625,
+                        "z": 0
+                    },
+                    "Width": 243.4179,
+                    "Height": 242.71,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/楼盘展示厅_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼盘展示厅_face_4",
+                    "Position": {
+                        "x": 3.9839,
+                        "y": 46.355,
+                        "z": -184.0008
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 181.179443359375,
+                        "z": 0
+                    },
+                    "Width": 263.9104,
+                    "Height": 242.71,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/楼盘展示厅_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼盘展示厅_face_5",
+                    "Position": {
+                        "x": -130.446,
+                        "y": 46.355,
+                        "z": -65.0337
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 91.1782455444336,
+                        "z": 0
+                    },
+                    "Width": 243.4179,
+                    "Height": 242.71,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/楼盘展示厅_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼盘展示厅_up",
+                    "Position": {
+                        "x": 1.4812,
+                        "y": 167.71,
+                        "z": -62.3176
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 268.8598,
+                    "Height": 248.7986,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/楼盘展示厅_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "楼盘展示厅_down",
+                    "Position": {
+                        "x": 1.4812,
+                        "y": -75,
+                        "z": -62.3176
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 268.8598,
+                    "Height": 248.7986,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/楼盘展示厅_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "楼盘展示厅-1",
+                "楼盘展示厅-2",
+                "楼盘展示厅-3"
+            ]
+        },
+        {
+            "Name": "壹号书吧",
+            "Position": {
+                "x": 383.5827,
+                "y": 1.65,
+                "z": -46.5186
+            },
+            "Rotation": 1.57244122028351,
+            "RoomFaces": [
+                {
+                    "Name": "壹号书吧_face_0",
+                    "Position": {
+                        "x": -49.8246,
+                        "y": -12.4593,
+                        "z": 128.761
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 2.5032958984375,
+                        "z": 0
+                    },
+                    "Width": 93.6474,
+                    "Height": 125.0814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号书吧_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号书吧_face_2",
+                    "Position": {
+                        "x": 119.2887,
+                        "y": -12.4593,
+                        "z": 136.1544
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 2.50338745117188,
+                        "z": 0
+                    },
+                    "Width": 69.1061,
+                    "Height": 125.0814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号书吧_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号书吧_face_3",
+                    "Position": {
+                        "x": 161.2023,
+                        "y": -12.4593,
+                        "z": -31.4538
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 272.503295898438,
+                        "z": 0
+                    },
+                    "Width": 338.5578,
+                    "Height": 125.0814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号书吧_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号书吧_face_4",
+                    "Position": {
+                        "x": 43.3898,
+                        "y": -12.4593,
+                        "z": -206.045
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 182.503311157227,
+                        "z": 0
+                    },
+                    "Width": 250.6515,
+                    "Height": 125.0814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号书吧_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号书吧_face_5",
+                    "Position": {
+                        "x": -89.21,
+                        "y": -12.4593,
+                        "z": -42.4015
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 92.503303527832,
+                        "z": 0
+                    },
+                    "Width": 338.5578,
+                    "Height": 125.0814,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号书吧_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "壹号书吧_up",
+                    "Position": {
+                        "x": 35.9962,
+                        "y": 50.0814,
+                        "z": -36.9276
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 265.1995,
+                    "Height": 349.1824,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号书吧_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "壹号书吧_down",
+                    "Position": {
+                        "x": 35.9962,
+                        "y": -75,
+                        "z": -36.9276
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 265.1995,
+                    "Height": 349.1824,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/壹号书吧_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "壹号书吧-1"
+            ]
+        },
+        {
+            "Name": "会议室",
+            "Position": {
+                "x": 843.0396,
+                "y": 2,
+                "z": 176.2056
+            },
+            "Rotation": 354.662963867188,
+            "RoomFaces": [
+                {
+                    "Name": "会议室_face_0",
+                    "Position": {
+                        "x": 12.8775,
+                        "y": -15.3155,
+                        "z": 145.6054
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 355.593597412109,
+                        "z": 0
+                    },
+                    "Width": 227.3097,
+                    "Height": 119.369,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/会议室_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "会议室_face_1",
+                    "Position": {
+                        "x": 119.3485,
+                        "y": -15.3155,
+                        "z": 48.0074
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 265.593566894531,
+                        "z": 0
+                    },
+                    "Width": 178.2586,
+                    "Height": 119.369,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/会议室_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "会议室_face_2",
+                    "Position": {
+                        "x": -0.8183,
+                        "y": -15.3155,
+                        "z": -32.1263
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 175.593597412109,
+                        "z": 0
+                    },
+                    "Width": 227.3097,
+                    "Height": 119.369,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/会议室_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "会议室_face_5",
+                    "Position": {
+                        "x": -105.5847,
+                        "y": -15.3155,
+                        "z": 87.593
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 85.5935668945313,
+                        "z": 0
+                    },
+                    "Width": 133.8848,
+                    "Height": 119.369,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/会议室_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "会议室_up",
+                    "Position": {
+                        "x": 6.0296,
+                        "y": 44.369,
+                        "z": 56.7395
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 240.3336,
+                    "Height": 195.196,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/会议室_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "会议室_down",
+                    "Position": {
+                        "x": 6.0296,
+                        "y": -75,
+                        "z": 56.7395
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 240.3336,
+                    "Height": 195.196,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/RoomFaces/会议室_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "会议室-1"
+            ]
+        }
+    ],
+    "HotSpots": [
+        {
+            "Name": "右侧大堂-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010167_20170118142656.JPG",
+            "Position": {
+                "x": -381.7216,
+                "y": 0,
+                "z": 164.1646
+            },
+            "VisibleHotSpots": [
+                "右会客厅二-1",
+                "壹号水吧-1",
+                "右侧前台-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "左侧大堂-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010171_20170118143431.JPG",
+            "Position": {
+                "x": 431.5095,
+                "y": 1.05,
+                "z": 183.5721
+            },
+            "VisibleHotSpots": [
+                "左侧前台-1",
+                "左会客厅-1",
+                "壹号书吧-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 354.0481,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "左会客厅-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010172_20170118143511.JPG",
+            "Position": {
+                "x": 663.5781,
+                "y": 1.5,
+                "z": 171.7968
+            },
+            "VisibleHotSpots": [
+                "左侧大堂-1",
+                "会议室-1",
+                "楼盘展示厅-1",
+                "楼盘展示厅-2",
+                "楼盘展示厅-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 359.0694,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "信箱大厅-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010164_20170118142401.JPG",
+            "Position": {
+                "x": -651.4213,
+                "y": 0.3,
+                "z": -245.7404
+            },
+            "VisibleHotSpots": [
+                "电梯间-1",
+                "右会客厅一-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0.4013,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "右会客厅一-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010165_20170118142444.JPG",
+            "Position": {
+                "x": -626.9653,
+                "y": 0.15,
+                "z": -63.6008
+            },
+            "VisibleHotSpots": [
+                "信箱大厅-1",
+                "右会客厅二-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0.121,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "右会客厅二-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010166_20170118142602.JPG",
+            "Position": {
+                "x": -626.3728,
+                "y": 0.05,
+                "z": 150.904
+            },
+            "VisibleHotSpots": [
+                "右侧大堂-1",
+                "右会客厅一-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 359.6439,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "右侧前台-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010169_20170118142820.JPG",
+            "Position": {
+                "x": -56.6214,
+                "y": 0.3,
+                "z": 165.7713
+            },
+            "VisibleHotSpots": [
+                "右侧大堂-1",
+                "左侧前台-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 2.3035,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "左侧前台-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010170_20170118143320.JPG",
+            "Position": {
+                "x": 139.7866,
+                "y": 0.65,
+                "z": 159.09
+            },
+            "VisibleHotSpots": [
+                "左侧大堂-1",
+                "右侧前台-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 357.3553,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "电梯间-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010163_20170118142312.JPG",
+            "Position": {
+                "x": -870.2499,
+                "y": 0.5,
+                "z": -247.2078
+            },
+            "VisibleHotSpots": [
+                "信箱大厅-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 357.2616,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "壹号水吧-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010168_20170118142731.JPG",
+            "Position": {
+                "x": -385.3866,
+                "y": 0.25,
+                "z": -50.5974
+            },
+            "VisibleHotSpots": [
+                "右侧大堂-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 359.644,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "楼盘展示厅-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010173_20170118143739.JPG",
+            "Position": {
+                "x": 674.6384,
+                "y": 2.05,
+                "z": 28.3265
+            },
+            "VisibleHotSpots": [
+                "左会客厅-1",
+                "楼盘展示厅-2",
+                "楼盘展示厅-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0.2489,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "楼盘展示厅-2",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010174_20170118143844.JPG",
+            "Position": {
+                "x": 771.878,
+                "y": 2.05,
+                "z": -15.5176
+            },
+            "VisibleHotSpots": [
+                "左会客厅-1",
+                "楼盘展示厅-1",
+                "楼盘展示厅-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0.2489,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "楼盘展示厅-3",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010175_20170118143929.JPG",
+            "Position": {
+                "x": 677.9269,
+                "y": 2.05,
+                "z": -8.7774
+            },
+            "VisibleHotSpots": [
+                "左会客厅-1",
+                "楼盘展示厅-1",
+                "楼盘展示厅-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 2.2395,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "壹号书吧-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010176_20170118144055.JPG",
+            "Position": {
+                "x": 383.5827,
+                "y": 1.65,
+                "z": -46.5186
+            },
+            "VisibleHotSpots": [
+                "左侧大堂-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 1.5724,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "会议室-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/售楼处/PanoramaImages/R0010177_20170118144149.JPG",
+            "Position": {
+                "x": 843.0396,
+                "y": 2,
+                "z": 176.2056
+            },
+            "VisibleHotSpots": [
+                "左会客厅-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 354.663,
+                "z": 0
+            },
+            "Type": "Room"
+        }
+    ],
+    "Name": "售楼处",
+    "CameraHeight": 75
+}
