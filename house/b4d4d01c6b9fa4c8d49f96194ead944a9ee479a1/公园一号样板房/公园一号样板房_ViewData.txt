@@ -1,0 +1,3606 @@
+{
+    "Rooms": [
+        {
+            "Name": "餐厅",
+            "Position": {
+                "x": -101.9897,
+                "y": 0,
+                "z": -50.837
+            },
+            "Rotation": 0,
+            "RoomFaces": [
+                {
+                    "Name": "餐厅_face_0",
+                    "Position": {
+                        "x": 47.7169,
+                        "y": -24.4538,
+                        "z": 138.0945
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 1.74580383300781,
+                        "z": 0
+                    },
+                    "Width": 187.7109,
+                    "Height": 101.0923,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/餐厅_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "餐厅_face_3",
+                    "Position": {
+                        "x": 143.4005,
+                        "y": -24.4538,
+                        "z": 83.8205
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 271.853149414063,
+                        "z": 0
+                    },
+                    "Width": 45.3622,
+                    "Height": 101.0923,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/餐厅_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "餐厅_face_6",
+                    "Position": {
+                        "x": 139.8146,
+                        "y": -24.4538,
+                        "z": -42.8913
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 181.745086669922,
+                        "z": 0
+                    },
+                    "Width": 14.6276,
+                    "Height": 101.0923,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/餐厅_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "餐厅_face_8",
+                    "Position": {
+                        "x": 59.7999,
+                        "y": -24.4538,
+                        "z": -45.3302
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 181.74560546875,
+                        "z": 0
+                    },
+                    "Width": 69.4273,
+                    "Height": 101.0923,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/餐厅_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "餐厅_face_10",
+                    "Position": {
+                        "x": -35.6307,
+                        "y": -24.4538,
+                        "z": -48.2386
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 181.745544433594,
+                        "z": 0
+                    },
+                    "Width": 9.7396,
+                    "Height": 101.0923,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/餐厅_face_10.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "餐厅_face_11",
+                    "Position": {
+                        "x": -41.0497,
+                        "y": -24.4538,
+                        "z": -30.2935
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 91.7458114624023,
+                        "z": 0
+                    },
+                    "Width": 36.2037,
+                    "Height": 101.0923,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/餐厅_face_11.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "餐厅_face_13",
+                    "Position": {
+                        "x": -44.6779,
+                        "y": -24.4538,
+                        "z": 88.7433
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 91.7457962036133,
+                        "z": 0
+                    },
+                    "Width": 93.0269,
+                    "Height": 101.0923,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/餐厅_face_13.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "餐厅_up",
+                    "Position": {
+                        "x": 50.5151,
+                        "y": 26.0923,
+                        "z": 46.2834
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 193.22,
+                    "Height": 189.3407,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/餐厅_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "餐厅_down",
+                    "Position": {
+                        "x": 50.5151,
+                        "y": -75,
+                        "z": 46.2834
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 193.22,
+                    "Height": 189.3407,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/餐厅_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "餐厅-1",
+                "餐厅-2",
+                "餐厅-3"
+            ]
+        },
+        {
+            "Name": "过道",
+            "Position": {
+                "x": -17.1549,
+                "y": 114.7056,
+                "z": -86.1439
+            },
+            "Rotation": 355.705444335938,
+            "RoomFaces": [
+                {
+                    "Name": "过道_face_0",
+                    "Position": {
+                        "x": -92.7067,
+                        "y": -24.546,
+                        "z": 26.309
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 357.452056884766,
+                        "z": 0
+                    },
+                    "Width": 39.7313,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/过道_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "过道_face_2",
+                    "Position": {
+                        "x": 6.8502,
+                        "y": -24.546,
+                        "z": 21.8792
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 357.452209472656,
+                        "z": 0
+                    },
+                    "Width": 83.8739,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/过道_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "过道_face_7",
+                    "Position": {
+                        "x": 46.496,
+                        "y": -24.546,
+                        "z": -29.4989
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 267.451934814453,
+                        "z": 0
+                    },
+                    "Width": 11.7207,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/过道_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "过道_face_8",
+                    "Position": {
+                        "x": 28.8418,
+                        "y": -24.546,
+                        "z": -34.5794
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 177.452041625977,
+                        "z": 0
+                    },
+                    "Width": 34.8216,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/过道_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "过道_face_11",
+                    "Position": {
+                        "x": -24.1213,
+                        "y": -24.546,
+                        "z": -26.3564
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 87.4519424438477,
+                        "z": 0
+                    },
+                    "Width": 11.7207,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/过道_face_11.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "过道_face_12",
+                    "Position": {
+                        "x": -51.6933,
+                        "y": -24.546,
+                        "z": -19.2633
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 177.452056884766,
+                        "z": 0
+                    },
+                    "Width": 55.7202,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/过道_face_12.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "过道_face_15",
+                    "Position": {
+                        "x": -114.3869,
+                        "y": -24.546,
+                        "z": -14.0247
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 87.452018737793,
+                        "z": 0
+                    },
+                    "Width": 4.8925,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/过道_face_15.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "过道_up",
+                    "Position": {
+                        "x": -32.875,
+                        "y": 25.9081,
+                        "z": -4.0806
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 163.2413,
+                    "Height": 62.5455,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/过道_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "过道_down",
+                    "Position": {
+                        "x": -32.875,
+                        "y": -75,
+                        "z": -4.0806
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 163.2413,
+                    "Height": 62.5455,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/过道_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "过道-1",
+                "过道-2",
+                "过道-3"
+            ]
+        },
+        {
+            "Name": "外走廊",
+            "Position": {
+                "x": -256.8513,
+                "y": 3.3,
+                "z": -22.1291
+            },
+            "Rotation": 3.58094215393066,
+            "RoomFaces": [
+                {
+                    "Name": "外走廊_face_0",
+                    "Position": {
+                        "x": -32.2414,
+                        "y": -24.9826,
+                        "z": 42.8658
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 4.42238616943359,
+                        "z": 0
+                    },
+                    "Width": 17.0057,
+                    "Height": 100.0348,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/外走廊_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "外走廊_face_3",
+                    "Position": {
+                        "x": 31.7147,
+                        "y": -24.9826,
+                        "z": 5.6005
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 274.422454833984,
+                        "z": 0
+                    },
+                    "Width": 84.1723,
+                    "Height": 100.0348,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/外走廊_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "外走廊_face_4",
+                    "Position": {
+                        "x": 31.4605,
+                        "y": -24.9826,
+                        "z": -36.3102
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 179.17919921875,
+                        "z": 0
+                    },
+                    "Width": 6.9995,
+                    "Height": 100.0348,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/外走廊_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "外走廊_face_6",
+                    "Position": {
+                        "x": -25.1917,
+                        "y": -24.9826,
+                        "z": -41.0423
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 184.234588623047,
+                        "z": 0
+                    },
+                    "Width": 18.1229,
+                    "Height": 100.0348,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/外走廊_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "外走廊_face_7",
+                    "Position": {
+                        "x": -37.4737,
+                        "y": -24.9826,
+                        "z": 0.2494
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 94.4224548339844,
+                        "z": 0
+                    },
+                    "Width": 84.1723,
+                    "Height": 100.0348,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/外走廊_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "外走廊_up",
+                    "Position": {
+                        "x": -2.8795,
+                        "y": 25.0348,
+                        "z": 2.9249
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 75.6789,
+                    "Height": 89.2727,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/外走廊_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "外走廊_down",
+                    "Position": {
+                        "x": -2.8795,
+                        "y": -75,
+                        "z": 2.9249
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 75.6789,
+                    "Height": 89.2727,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/外走廊_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "外走廊-1"
+            ]
+        },
+        {
+            "Name": "大门外",
+            "Position": {
+                "x": -272.0518,
+                "y": 2.4,
+                "z": -153.9064
+            },
+            "Rotation": 2.51608467102051,
+            "RoomFaces": [
+                {
+                    "Name": "大门外_face_0",
+                    "Position": {
+                        "x": -19.5096,
+                        "y": -23.4305,
+                        "z": 91.3567
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 4.26169586181641,
+                        "z": 0
+                    },
+                    "Width": 17.6578,
+                    "Height": 103.1389,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/大门外_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大门外_face_3",
+                    "Position": {
+                        "x": 42.3135,
+                        "y": -23.4305,
+                        "z": 67.9825
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 274.261688232422,
+                        "z": 0
+                    },
+                    "Width": 55.8075,
+                    "Height": 103.1389,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/大门外_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大门外_face_7",
+                    "Position": {
+                        "x": 50.8726,
+                        "y": -23.4305,
+                        "z": -46.8778
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 274.261657714844,
+                        "z": 0
+                    },
+                    "Width": 51.5983,
+                    "Height": 103.1389,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/大门外_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大门外_face_8",
+                    "Position": {
+                        "x": 29.7443,
+                        "y": -23.4305,
+                        "z": -74.3229
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 184.261672973633,
+                        "z": 0
+                    },
+                    "Width": 46.2187,
+                    "Height": 103.1389,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/大门外_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大门外_face_9",
+                    "Position": {
+                        "x": 4.7817,
+                        "y": -23.4305,
+                        "z": -50.3123
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 94.2616729736328,
+                        "z": 0
+                    },
+                    "Width": 51.5983,
+                    "Height": 103.1389,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/大门外_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大门外_face_10",
+                    "Position": {
+                        "x": -8.367,
+                        "y": -23.4305,
+                        "z": -25.4214
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 184.261627197266,
+                        "z": 0
+                    },
+                    "Width": 22.5254,
+                    "Height": 103.1389,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/大门外_face_10.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大门外_face_11",
+                    "Position": {
+                        "x": -23.9563,
+                        "y": -23.4305,
+                        "z": 32.2211
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 94.2616729736328,
+                        "z": 0
+                    },
+                    "Width": 117.2833,
+                    "Height": 103.1389,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/大门外_face_11.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "大门外_up",
+                    "Position": {
+                        "x": 12.2379,
+                        "y": 28.1389,
+                        "z": 9.8845
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 81.1039,
+                    "Height": 171.8493,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/大门外_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "大门外_down",
+                    "Position": {
+                        "x": 12.2379,
+                        "y": -75,
+                        "z": 9.8845
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 81.1039,
+                    "Height": 171.8493,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/大门外_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "大门外-1"
+            ]
+        },
+        {
+            "Name": "玄关外",
+            "Position": {
+                "x": -180.2852,
+                "y": 1.55,
+                "z": -141.1942
+            },
+            "Rotation": 358.187347412109,
+            "RoomFaces": [
+                {
+                    "Name": "玄关外_face_0",
+                    "Position": {
+                        "x": -3.3413,
+                        "y": -22.813,
+                        "z": 39.9903
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 359.932800292969,
+                        "z": 0
+                    },
+                    "Width": 82.9497,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关外_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关外_face_1",
+                    "Position": {
+                        "x": 38.1167,
+                        "y": -22.813,
+                        "z": 25.4719
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 269.932983398438,
+                        "z": 0
+                    },
+                    "Width": 28.9395,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关外_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关外_face_4",
+                    "Position": {
+                        "x": -3.4223,
+                        "y": -22.813,
+                        "z": -29.3007
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 179.932800292969,
+                        "z": 0
+                    },
+                    "Width": 82.9497,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关外_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关外_face_5",
+                    "Position": {
+                        "x": -44.8963,
+                        "y": -22.813,
+                        "z": -28.5163
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 89.9336013793945,
+                        "z": 0
+                    },
+                    "Width": 1.4713,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关外_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关外_face_7",
+                    "Position": {
+                        "x": -44.8278,
+                        "y": -22.813,
+                        "z": 30.0658
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 89.932991027832,
+                        "z": 0
+                    },
+                    "Width": 19.9464,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关外_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关外_up",
+                    "Position": {
+                        "x": -3.3818,
+                        "y": 29.3741,
+                        "z": 5.3448
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 83.0307,
+                    "Height": 69.3882,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关外_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "玄关外_down",
+                    "Position": {
+                        "x": -3.3818,
+                        "y": -75,
+                        "z": 5.3448
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 83.0307,
+                    "Height": 69.3882,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关外_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "玄关外-1"
+            ]
+        },
+        {
+            "Name": "楼梯",
+            "Position": {
+                "x": 7.8714,
+                "y": 68.0556,
+                "z": -201.2595
+            },
+            "Rotation": 356.109252929688,
+            "RoomFaces": [
+                {
+                    "Name": "楼梯_face_1",
+                    "Position": {
+                        "x": -6.5888,
+                        "y": -58.4411,
+                        "z": 65.884
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 87.8555221557617,
+                        "z": 0
+                    },
+                    "Width": 81.9546,
+                    "Height": 168.829,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯_face_5",
+                    "Position": {
+                        "x": 25.2687,
+                        "y": -58.4411,
+                        "z": 64.6911
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 267.855529785156,
+                        "z": 0
+                    },
+                    "Width": 81.9546,
+                    "Height": 168.829,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯_face_7",
+                    "Position": {
+                        "x": 23.3632,
+                        "y": -24.5133,
+                        "z": 6.1323
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 267.855529785156,
+                        "z": 0
+                    },
+                    "Width": 35.2235,
+                    "Height": 100.9734,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯_face_8",
+                    "Position": {
+                        "x": 6.6321,
+                        "y": -24.5133,
+                        "z": -10.8653
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 177.855743408203,
+                        "z": 0
+                    },
+                    "Width": 32.1668,
+                    "Height": 100.9734,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯_stair_0",
+                    "Position": {
+                        "x": 9.34,
+                        "y": -108.9278,
+                        "z": 65.2876
+                    },
+                    "Rotation": {
+                        "x": 50.3764190673828,
+                        "y": 357.855529785156,
+                        "z": 0
+                    },
+                    "Width": 31.8799,
+                    "Height": 106.3999,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯_stair_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯_up",
+                    "Position": {
+                        "x": 8.681,
+                        "y": 25.9734,
+                        "z": 47.6828
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 36.2422,
+                    "Height": 118.2997,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "楼梯_down",
+                    "Position": {
+                        "x": 8.681,
+                        "y": -75,
+                        "z": 47.6828
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 36.2422,
+                    "Height": 118.2997,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "楼梯-1"
+            ]
+        },
+        {
+            "Name": "楼梯2",
+            "Position": {
+                "x": -26.471,
+                "y": 68.3056,
+                "z": -191.5076
+            },
+            "Rotation": 2.61881589889526,
+            "RoomFaces": [
+                {
+                    "Name": "楼梯2_face_1",
+                    "Position": {
+                        "x": -13.1653,
+                        "y": -24.5133,
+                        "z": 42.1385
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 94.3653030395508,
+                        "z": 0
+                    },
+                    "Width": 57.4991,
+                    "Height": 100.9734,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯2_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯2_face_5",
+                    "Position": {
+                        "x": 21.633,
+                        "y": -24.5133,
+                        "z": 44.7948
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 274.365295410156,
+                        "z": 0
+                    },
+                    "Width": 57.4991,
+                    "Height": 100.9734,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯2_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯2_face_10",
+                    "Position": {
+                        "x": 9.1715,
+                        "y": -24.5133,
+                        "z": -21.2157
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 184.365295410156,
+                        "z": 0
+                    },
+                    "Width": 34.8995,
+                    "Height": 100.9734,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯2_face_10.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯2_face_11",
+                    "Position": {
+                        "x": -9.6023,
+                        "y": -24.5133,
+                        "z": -4.5358
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 94.3653335571289,
+                        "z": 0
+                    },
+                    "Width": 36.121,
+                    "Height": 100.9734,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯2_face_11.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯2_stair_0",
+                    "Position": {
+                        "x": 4.2338,
+                        "y": -51.95,
+                        "z": 43.4666
+                    },
+                    "Rotation": {
+                        "x": 128.720932006836,
+                        "y": 4.36529541015625,
+                        "z": 0
+                    },
+                    "Width": 34.8995,
+                    "Height": 73.6978,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯2_stair_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "楼梯2_up",
+                    "Position": {
+                        "x": 5.6085,
+                        "y": 25.9734,
+                        "z": 25.4586
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 41.9242,
+                    "Height": 96.0049,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯2_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "楼梯2_down",
+                    "Position": {
+                        "x": 5.6085,
+                        "y": -75,
+                        "z": 25.4586
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 41.9242,
+                    "Height": 96.0049,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/楼梯2_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "楼梯2-1"
+            ]
+        },
+        {
+            "Name": "主卧",
+            "Position": {
+                "x": 146.0138,
+                "y": 115.0556,
+                "z": -64.9422
+            },
+            "Rotation": 357.485473632813,
+            "RoomFaces": [
+                {
+                    "Name": "主卧_face_0",
+                    "Position": {
+                        "x": -15.4014,
+                        "y": -21.4127,
+                        "z": 58.5627
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 359.231872558594,
+                        "z": 0
+                    },
+                    "Width": 199.4933,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧_face_1",
+                    "Position": {
+                        "x": 82.9559,
+                        "y": -21.4127,
+                        "z": -45.7365
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 269.231872558594,
+                        "z": 0
+                    },
+                    "Width": 205.9426,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧_face_2",
+                    "Position": {
+                        "x": -18.1617,
+                        "y": -21.4127,
+                        "z": -147.3619
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 179.232177734375,
+                        "z": 0
+                    },
+                    "Width": 199.4923,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧_face_3",
+                    "Position": {
+                        "x": -117.1405,
+                        "y": -21.4127,
+                        "z": -89.4392
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 89.2321701049805,
+                        "z": 0
+                    },
+                    "Width": 113.1821,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧_face_5",
+                    "Position": {
+                        "x": -115.8251,
+                        "y": -21.4127,
+                        "z": 8.7142
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 89.2321472167969,
+                        "z": 0
+                    },
+                    "Width": 9.0754,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧_up",
+                    "Position": {
+                        "x": -16.7813,
+                        "y": 32.1746,
+                        "z": -44.3993
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 202.2352,
+                    "Height": 208.5985,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "主卧_down",
+                    "Position": {
+                        "x": -16.7813,
+                        "y": -75,
+                        "z": -44.3993
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 202.2352,
+                    "Height": 208.5985,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "主卧-1"
+            ]
+        },
+        {
+            "Name": "主卧通道",
+            "Position": {
+                "x": -0.9096,
+                "y": 115.4556,
+                "z": -33.1257
+            },
+            "Rotation": 352.443542480469,
+            "RoomFaces": [
+                {
+                    "Name": "主卧通道_face_0",
+                    "Position": {
+                        "x": 14.2607,
+                        "y": -21.4127,
+                        "z": 109.3684
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 354.190246582031,
+                        "z": 0
+                    },
+                    "Width": 44.0492,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧通道_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧通道_face_3",
+                    "Position": {
+                        "x": 29.3944,
+                        "y": -21.4127,
+                        "z": 40.5271
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 264.190246582031,
+                        "z": 0
+                    },
+                    "Width": 42.0823,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧通道_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧通道_face_4",
+                    "Position": {
+                        "x": 29.6586,
+                        "y": -21.4127,
+                        "z": 19.3504
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 354.190155029297,
+                        "z": 0
+                    },
+                    "Width": 4.8128,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧通道_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧通道_face_8",
+                    "Position": {
+                        "x": 24.8839,
+                        "y": -21.4127,
+                        "z": -27.5762
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 174.190124511719,
+                        "z": 0
+                    },
+                    "Width": 4.8128,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧通道_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧通道_face_10",
+                    "Position": {
+                        "x": 0.5785,
+                        "y": -21.4127,
+                        "z": -25.1033
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 174.190368652344,
+                        "z": 0
+                    },
+                    "Width": 44.0488,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧通道_face_10.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧通道_face_11",
+                    "Position": {
+                        "x": -14.4918,
+                        "y": -21.4127,
+                        "z": 44.362
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 84.1903762817383,
+                        "z": 0
+                    },
+                    "Width": 135.166,
+                    "Height": 107.1746,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧通道_face_11.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卧通道_up",
+                    "Position": {
+                        "x": 7.4197,
+                        "y": 32.1746,
+                        "z": 41.889
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 57.5049,
+                    "Height": 139.4177,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧通道_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "主卧通道_down",
+                    "Position": {
+                        "x": 7.4197,
+                        "y": -75,
+                        "z": 41.889
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 57.5049,
+                    "Height": 139.4177,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卧通道_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "主卧通道-1",
+                "主卧通道-2"
+            ]
+        },
+        {
+            "Name": "书房",
+            "Position": {
+                "x": -69.1354,
+                "y": 115.2556,
+                "z": -32.2218
+            },
+            "Rotation": 0.681816160678864,
+            "RoomFaces": [
+                {
+                    "Name": "书房_face_0",
+                    "Position": {
+                        "x": -74.6928,
+                        "y": -24.546,
+                        "z": 99.2295
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 2.42920684814453,
+                        "z": 0
+                    },
+                    "Width": 182.6977,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/书房_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "书房_face_1",
+                    "Position": {
+                        "x": 19.4482,
+                        "y": -24.546,
+                        "z": 35.3494
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 272.42919921875,
+                        "z": 0
+                    },
+                    "Width": 135.6259,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/书房_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "书房_face_2",
+                    "Position": {
+                        "x": 18.7546,
+                        "y": -24.546,
+                        "z": -32.5539
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 182.429016113281,
+                        "z": 0
+                    },
+                    "Width": 7.1421,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/书房_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "书房_face_4",
+                    "Position": {
+                        "x": -90.9631,
+                        "y": -24.546,
+                        "z": -37.2079
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 182.42887878418,
+                        "z": 0
+                    },
+                    "Width": 138.6223,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/书房_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "书房_face_5",
+                    "Position": {
+                        "x": -160.5932,
+                        "y": -24.546,
+                        "z": -31.1576
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 92.4287948608398,
+                        "z": 0
+                    },
+                    "Width": 17.9914,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/书房_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "书房_face_7",
+                    "Position": {
+                        "x": -164.8253,
+                        "y": -24.546,
+                        "z": 68.6151
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 92.4288330078125,
+                        "z": 0
+                    },
+                    "Width": 53.5334,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/书房_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "书房_up",
+                    "Position": {
+                        "x": -71.8186,
+                        "y": 25.9081,
+                        "z": 31.478
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 188.282,
+                    "Height": 143.2466,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/书房_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "书房_down",
+                    "Position": {
+                        "x": -71.8186,
+                        "y": -75,
+                        "z": 31.478
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 188.282,
+                    "Height": 143.2466,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/书房_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "书房-1",
+                "书房-3"
+            ]
+        },
+        {
+            "Name": "阳台",
+            "Position": {
+                "x": -260.6384,
+                "y": 115.8556,
+                "z": -5.9454
+            },
+            "Rotation": 358.169921875,
+            "RoomFaces": [
+                {
+                    "Name": "阳台_face_0",
+                    "Position": {
+                        "x": -18.4831,
+                        "y": -24.546,
+                        "z": 28.9505
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 359.914978027344,
+                        "z": 0
+                    },
+                    "Width": 9.0709,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "阳台_face_2",
+                    "Position": {
+                        "x": 26.2425,
+                        "y": -24.546,
+                        "z": 28.886
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 359.914398193359,
+                        "z": 0
+                    },
+                    "Width": 5.2858,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "阳台_face_3",
+                    "Position": {
+                        "x": 28.8775,
+                        "y": -24.546,
+                        "z": 23.4344
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 269.916961669922,
+                        "z": 0
+                    },
+                    "Width": 10.8952,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "阳台_face_5",
+                    "Position": {
+                        "x": 28.7585,
+                        "y": -24.546,
+                        "z": -58.6822
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 269.916961669922,
+                        "z": 0
+                    },
+                    "Width": 19.7007,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "阳台_face_6",
+                    "Position": {
+                        "x": 2.7944,
+                        "y": -24.546,
+                        "z": -68.4961
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 179.919494628906,
+                        "z": 0
+                    },
+                    "Width": 51.8996,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "阳台_face_8",
+                    "Position": {
+                        "x": -32.8787,
+                        "y": -24.546,
+                        "z": -68.3746
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 179.919952392578,
+                        "z": 0
+                    },
+                    "Width": 19.4469,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "阳台_face_9",
+                    "Position": {
+                        "x": -42.5415,
+                        "y": -24.546,
+                        "z": -25.2023
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 89.9195327758789,
+                        "z": 0
+                    },
+                    "Width": 86.3175,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "阳台_face_10",
+                    "Position": {
+                        "x": -32.7574,
+                        "y": -24.546,
+                        "z": 17.9429
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 359.919982910156,
+                        "z": 0
+                    },
+                    "Width": 19.4469,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_face_10.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "阳台_face_11",
+                    "Position": {
+                        "x": -23.0262,
+                        "y": -24.546,
+                        "z": 23.4433
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 89.9195327758789,
+                        "z": 0
+                    },
+                    "Width": 11.0279,
+                    "Height": 100.9081,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_face_11.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "阳台_up",
+                    "Position": {
+                        "x": -6.8584,
+                        "y": 25.9081,
+                        "z": -19.7877
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 71.4875,
+                    "Height": 97.4898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "阳台_down",
+                    "Position": {
+                        "x": -6.8584,
+                        "y": -75,
+                        "z": -19.7877
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 71.4875,
+                    "Height": 97.4898,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/阳台_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "阳台-1"
+            ]
+        },
+        {
+            "Name": "玄关",
+            "Position": {
+                "x": -95.2184,
+                "y": 0.75,
+                "z": -144.1692
+            },
+            "Rotation": 2.09916710853577,
+            "RoomFaces": [
+                {
+                    "Name": "玄关_face_0",
+                    "Position": {
+                        "x": -45.3729,
+                        "y": -22.813,
+                        "z": 43.4197
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 3.84498596191406,
+                        "z": 0
+                    },
+                    "Width": 8.9811,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关_face_2",
+                    "Position": {
+                        "x": 31.8441,
+                        "y": -22.813,
+                        "z": 48.6091
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 3.84479522705078,
+                        "z": 0
+                    },
+                    "Width": 27.099,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关_face_3",
+                    "Position": {
+                        "x": 47.9189,
+                        "y": -22.813,
+                        "z": 11.4888
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 273.844787597656,
+                        "z": 0
+                    },
+                    "Width": 76.2293,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关_face_4",
+                    "Position": {
+                        "x": 2.8664,
+                        "y": -22.813,
+                        "z": -29.7396
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 183.844818115234,
+                        "z": 0
+                    },
+                    "Width": 95.4312,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关_face_5",
+                    "Position": {
+                        "x": -45.0286,
+                        "y": -22.813,
+                        "z": -28.6714
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 93.8447875976563,
+                        "z": 0
+                    },
+                    "Width": 8.5549,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关_face_7",
+                    "Position": {
+                        "x": -48.7764,
+                        "y": -22.813,
+                        "z": 27.0946
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 93.8447875976563,
+                        "z": 0
+                    },
+                    "Width": 32.1203,
+                    "Height": 104.3741,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "玄关_up",
+                    "Position": {
+                        "x": 0.3107,
+                        "y": 29.3741,
+                        "z": 8.2892
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 100.3279,
+                    "Height": 82.4568,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "玄关_down",
+                    "Position": {
+                        "x": 0.3107,
+                        "y": -75,
+                        "z": 8.2892
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 100.3279,
+                    "Height": 82.4568,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/玄关_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "玄关-1"
+            ]
+        },
+        {
+            "Name": "电梯间",
+            "Position": {
+                "x": -257.2104,
+                "y": 4.25,
+                "z": 128.0954
+            },
+            "Rotation": 359.29541015625,
+            "RoomFaces": [
+                {
+                    "Name": "电梯间_face_0",
+                    "Position": {
+                        "x": -8.2795,
+                        "y": -23.1725,
+                        "z": 104.9227
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 0.13720703125,
+                        "z": 0
+                    },
+                    "Width": 72.3882,
+                    "Height": 103.6551,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/电梯间_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "电梯间_face_1",
+                    "Position": {
+                        "x": 28.1658,
+                        "y": -23.1725,
+                        "z": 0.0439
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 270.13720703125,
+                        "z": 0
+                    },
+                    "Width": 209.9316,
+                    "Height": 103.6551,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/电梯间_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "电梯间_face_4",
+                    "Position": {
+                        "x": -32.0382,
+                        "y": -23.1725,
+                        "z": -105.0668
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 180.139862060547,
+                        "z": 0
+                    },
+                    "Width": 23.862,
+                    "Height": 103.6551,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/电梯间_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "电梯间_face_5",
+                    "Position": {
+                        "x": -44.2213,
+                        "y": -23.1725,
+                        "z": -0.1299
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 90.1376647949219,
+                        "z": 0
+                    },
+                    "Width": 209.9325,
+                    "Height": 103.6551,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/电梯间_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "电梯间_up",
+                    "Position": {
+                        "x": -8.0282,
+                        "y": 28.6551,
+                        "z": -0.0433
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 72.8907,
+                    "Height": 210.1053,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/电梯间_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "电梯间_down",
+                    "Position": {
+                        "x": -8.0282,
+                        "y": -75,
+                        "z": -0.0433
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 72.8907,
+                    "Height": 210.1053,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/电梯间_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "电梯间-1"
+            ]
+        },
+        {
+            "Name": "厨房",
+            "Position": {
+                "x": -176.046,
+                "y": 0.05,
+                "z": -36.6777
+            },
+            "Rotation": 1.47463989257813,
+            "RoomFaces": [
+                {
+                    "Name": "厨房_face_0",
+                    "Position": {
+                        "x": -6.4342,
+                        "y": -22.9086,
+                        "z": 93.6132
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 3.22045135498047,
+                        "z": 0
+                    },
+                    "Width": 65.604,
+                    "Height": 104.1827,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/厨房_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "厨房_face_1",
+                    "Position": {
+                        "x": 28.2228,
+                        "y": -22.9086,
+                        "z": 61.5665
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 273.220458984375,
+                        "z": 0
+                    },
+                    "Width": 67.8861,
+                    "Height": 104.1827,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/厨房_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "厨房_face_3",
+                    "Position": {
+                        "x": 33.9138,
+                        "y": -22.9086,
+                        "z": -39.5767
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 273.220458984375,
+                        "z": 0
+                    },
+                    "Width": 30.5676,
+                    "Height": 104.1827,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/厨房_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "厨房_face_4",
+                    "Position": {
+                        "x": 2.0222,
+                        "y": -22.9086,
+                        "z": -56.6791
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 183.220458984375,
+                        "z": 0
+                    },
+                    "Width": 65.604,
+                    "Height": 104.1827,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/厨房_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "厨房_face_5",
+                    "Position": {
+                        "x": -34.9562,
+                        "y": -22.9086,
+                        "z": 16.6243
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 93.220458984375,
+                        "z": 0
+                    },
+                    "Width": 150.53,
+                    "Height": 104.1827,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/厨房_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "厨房_up",
+                    "Position": {
+                        "x": -2.206,
+                        "y": 29.1827,
+                        "z": 18.467
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 73.9569,
+                    "Height": 153.9778,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/厨房_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "厨房_down",
+                    "Position": {
+                        "x": -2.206,
+                        "y": -75,
+                        "z": 18.467
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 73.9569,
+                    "Height": 153.9778,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/厨房_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "厨房-1"
+            ]
+        },
+        {
+            "Name": "客厅",
+            "Position": {
+                "x": 193.9883,
+                "y": 0.1,
+                "z": -39.1151
+            },
+            "Rotation": 0.038604736328125,
+            "RoomFaces": [
+                {
+                    "Name": "客厅_face_0",
+                    "Position": {
+                        "x": -34.5511,
+                        "y": -18.9467,
+                        "z": 60.4227
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 1.66756439208984,
+                        "z": 0
+                    },
+                    "Width": 235.1975,
+                    "Height": 112.1067,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "客厅_face_1",
+                    "Position": {
+                        "x": 83.5707,
+                        "y": -18.9467,
+                        "z": 44.1659
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 271.667541503906,
+                        "z": 0
+                    },
+                    "Width": 39.3745,
+                    "Height": 112.1067,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "客厅_face_2",
+                    "Position": {
+                        "x": 100.235,
+                        "y": -18.9467,
+                        "z": 24.9555
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 1.66750335693359,
+                        "z": 0
+                    },
+                    "Width": 32.1963,
+                    "Height": 112.1067,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "客厅_face_3",
+                    "Position": {
+                        "x": 118.6885,
+                        "y": -18.9467,
+                        "z": -55.7177
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 271.667541503906,
+                        "z": 0
+                    },
+                    "Width": 162.3521,
+                    "Height": 112.1067,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "客厅_face_4",
+                    "Position": {
+                        "x": 104.9594,
+                        "y": -18.9467,
+                        "z": -137.3278
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 181.667556762695,
+                        "z": 0
+                    },
+                    "Width": 32.1963,
+                    "Height": 112.1067,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "客厅_face_5",
+                    "Position": {
+                        "x": 89.5175,
+                        "y": -18.9467,
+                        "z": -160.1023
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 271.667663574219,
+                        "z": 0
+                    },
+                    "Width": 44.6308,
+                    "Height": 112.1067,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "客厅_face_6",
+                    "Position": {
+                        "x": -27.3815,
+                        "y": -18.9467,
+                        "z": -185.831
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 181.667846679688,
+                        "z": 0
+                    },
+                    "Width": 235.1965,
+                    "Height": 112.1067,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "客厅_face_7",
+                    "Position": {
+                        "x": -146.7782,
+                        "y": -18.9467,
+                        "z": -125.781
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 91.6679763793945,
+                        "z": 0
+                    },
+                    "Width": 126.9993,
+                    "Height": 112.1067,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "客厅_up",
+                    "Position": {
+                        "x": -15.5247,
+                        "y": 37.1067,
+                        "z": -62.7044
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 273.1508,
+                    "Height": 253.0986,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "客厅_down",
+                    "Position": {
+                        "x": -15.5247,
+                        "y": -75,
+                        "z": -62.7044
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 273.1508,
+                    "Height": 253.0986,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/客厅_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "客厅-1",
+                "客厅-2",
+                "客厅-3",
+                "客厅-5"
+            ]
+        },
+        {
+            "Name": "卫生间",
+            "Position": {
+                "x": 121.1091,
+                "y": 0.15,
+                "z": 79.8862
+            },
+            "Rotation": 0.325332641601563,
+            "RoomFaces": [
+                {
+                    "Name": "卫生间_face_0",
+                    "Position": {
+                        "x": 20.0948,
+                        "y": -24.8624,
+                        "z": 72.371
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 2.21681976318359,
+                        "z": 0
+                    },
+                    "Width": 78.4537,
+                    "Height": 100.2751,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/卫生间_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "卫生间_face_1",
+                    "Position": {
+                        "x": 61.2059,
+                        "y": -24.8624,
+                        "z": 24.4544
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 272.216796875,
+                        "z": 0
+                    },
+                    "Width": 98.942,
+                    "Height": 100.2751,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/卫生间_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "卫生间_face_2",
+                    "Position": {
+                        "x": 23.922,
+                        "y": -24.8624,
+                        "z": -26.4969
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 182.216827392578,
+                        "z": 0
+                    },
+                    "Width": 78.4537,
+                    "Height": 100.2751,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/卫生间_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "卫生间_face_4",
+                    "Position": {
+                        "x": -47.6713,
+                        "y": -24.8624,
+                        "z": -29.2683
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 182.216827392578,
+                        "z": 0
+                    },
+                    "Width": 64.8402,
+                    "Height": 100.2751,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/卫生间_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "卫生间_face_8",
+                    "Position": {
+                        "x": -49.4519,
+                        "y": -24.8624,
+                        "z": 16.7304
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 2.21680450439453,
+                        "z": 0
+                    },
+                    "Width": 64.8402,
+                    "Height": 100.2751,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/卫生间_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "卫生间_face_9",
+                    "Position": {
+                        "x": -18.0794,
+                        "y": -24.8624,
+                        "z": 44.419
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 92.2168273925781,
+                        "z": 0
+                    },
+                    "Width": 52.9088,
+                    "Height": 100.2751,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/卫生间_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "卫生间_up",
+                    "Position": {
+                        "x": -9.3641,
+                        "y": 25.2751,
+                        "z": 21.683
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 144.9673,
+                    "Height": 104.4107,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/卫生间_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "卫生间_down",
+                    "Position": {
+                        "x": -9.3641,
+                        "y": -75,
+                        "z": 21.683
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 144.9673,
+                    "Height": 104.4107,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/卫生间_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "卫生间-1"
+            ]
+        },
+        {
+            "Name": "主卫",
+            "Position": {
+                "x": 172.3494,
+                "y": 115.9056,
+                "z": 61.798
+            },
+            "Rotation": 357.641265869141,
+            "RoomFaces": [
+                {
+                    "Name": "主卫_face_0",
+                    "Position": {
+                        "x": 3.8603,
+                        "y": -24.3241,
+                        "z": 75.0766
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 359.38720703125,
+                        "z": 0
+                    },
+                    "Width": 150.7834,
+                    "Height": 101.3518,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卫_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卫_face_1",
+                    "Position": {
+                        "x": 78.6847,
+                        "y": -24.3241,
+                        "z": 21.5782
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 269.387908935547,
+                        "z": 0
+                    },
+                    "Width": 105.3903,
+                    "Height": 101.3518,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卫_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卫_face_2",
+                    "Position": {
+                        "x": 2.7338,
+                        "y": -24.3241,
+                        "z": -30.3087
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 179.388046264648,
+                        "z": 0
+                    },
+                    "Width": 150.7847,
+                    "Height": 101.3518,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卫_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卫_face_3",
+                    "Position": {
+                        "x": -72.6256,
+                        "y": -24.3241,
+                        "z": -26.761
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 89.4009475708008,
+                        "z": 0
+                    },
+                    "Width": 5.4853,
+                    "Height": 101.3518,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卫_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卫_face_4",
+                    "Position": {
+                        "x": -111.892,
+                        "y": -24.3241,
+                        "z": -23.6018
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 179.392456054688,
+                        "z": 0
+                    },
+                    "Width": 78.5946,
+                    "Height": 101.3518,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卫_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卫_face_8",
+                    "Position": {
+                        "x": -111.41,
+                        "y": -24.3241,
+                        "z": 21.4678
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 359.392517089844,
+                        "z": 0
+                    },
+                    "Width": 78.5959,
+                    "Height": 101.3518,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卫_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卫_face_9",
+                    "Position": {
+                        "x": -71.8207,
+                        "y": -24.3241,
+                        "z": 48.467
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 89.3864974975586,
+                        "z": 0
+                    },
+                    "Width": 54.8349,
+                    "Height": 101.3518,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卫_face_9.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "主卫_up",
+                    "Position": {
+                        "x": -35.9697,
+                        "y": 26.3518,
+                        "z": 22.3845
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 230.4347,
+                    "Height": 106.9969,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卫_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "主卫_down",
+                    "Position": {
+                        "x": -35.9697,
+                        "y": -75,
+                        "z": 22.3845
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 230.4347,
+                    "Height": 106.9969,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/主卫_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "主卫-1"
+            ]
+        },
+        {
+            "Name": "次卫",
+            "Position": {
+                "x": -108.1775,
+                "y": 115.2056,
+                "z": -143.982
+            },
+            "Rotation": 355.776397705078,
+            "RoomFaces": [
+                {
+                    "Name": "次卫_face_0",
+                    "Position": {
+                        "x": -22.2237,
+                        "y": -22.6328,
+                        "z": 34.4875
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 357.522766113281,
+                        "z": 0
+                    },
+                    "Width": 6.2336,
+                    "Height": 104.7345,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卫_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卫_face_2",
+                    "Position": {
+                        "x": 33.3807,
+                        "y": -22.6328,
+                        "z": 32.0819
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 357.522766113281,
+                        "z": 0
+                    },
+                    "Width": 36.3922,
+                    "Height": 104.7345,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卫_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卫_face_3",
+                    "Position": {
+                        "x": 49.7166,
+                        "y": -22.6328,
+                        "z": -11.3086
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 267.522735595703,
+                        "z": 0
+                    },
+                    "Width": 85.2877,
+                    "Height": 104.7345,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卫_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卫_face_4",
+                    "Position": {
+                        "x": 9.4247,
+                        "y": -22.6328,
+                        "z": -52.2492
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 177.522766113281,
+                        "z": 0
+                    },
+                    "Width": 76.9693,
+                    "Height": 104.7345,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卫_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卫_face_5",
+                    "Position": {
+                        "x": -27.1808,
+                        "y": -22.6328,
+                        "z": -7.9818
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 87.5227432250977,
+                        "z": 0
+                    },
+                    "Width": 85.2877,
+                    "Height": 104.7345,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卫_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卫_up",
+                    "Position": {
+                        "x": 11.2679,
+                        "y": 29.7345,
+                        "z": -9.6452
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 80.5838,
+                    "Height": 88.5348,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卫_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "次卫_down",
+                    "Position": {
+                        "x": 11.2679,
+                        "y": -75,
+                        "z": -9.6452
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 80.5838,
+                    "Height": 88.5348,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卫_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "次卫-1"
+            ]
+        },
+        {
+            "Name": "储藏室",
+            "Position": {
+                "x": -264.6845,
+                "y": 116.5056,
+                "z": 66.9449
+            },
+            "Rotation": 354.179718017578,
+            "RoomFaces": [
+                {
+                    "Name": "储藏室_face_0",
+                    "Position": {
+                        "x": -5.9741,
+                        "y": -19.594,
+                        "z": 58.1144
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 355.927673339844,
+                        "z": 0
+                    },
+                    "Width": 74.5187,
+                    "Height": 110.812,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/储藏室_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "储藏室_face_1",
+                    "Position": {
+                        "x": 27.5835,
+                        "y": -19.594,
+                        "z": 4.7969
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 265.927642822266,
+                        "z": 0
+                    },
+                    "Width": 101.5994,
+                    "Height": 110.812,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/储藏室_face_1.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "储藏室_face_2",
+                    "Position": {
+                        "x": 22.7959,
+                        "y": -19.594,
+                        "z": -45.7905
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 175.927612304688,
+                        "z": 0
+                    },
+                    "Width": 2.366,
+                    "Height": 110.812,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/储藏室_face_2.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "储藏室_face_4",
+                    "Position": {
+                        "x": -32.5252,
+                        "y": -19.594,
+                        "z": -41.8519
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 175.927642822266,
+                        "z": 0
+                    },
+                    "Width": 35.749,
+                    "Height": 110.812,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/储藏室_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "储藏室_face_5",
+                    "Position": {
+                        "x": -46.747,
+                        "y": -19.594,
+                        "z": 10.089
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 85.9276580810547,
+                        "z": 0
+                    },
+                    "Width": 101.5994,
+                    "Height": 110.812,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/储藏室_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "储藏室_up",
+                    "Position": {
+                        "x": -9.5817,
+                        "y": 35.812,
+                        "z": 7.4429
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 81.5457,
+                    "Height": 106.6349,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/储藏室_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "储藏室_down",
+                    "Position": {
+                        "x": -9.5817,
+                        "y": -75,
+                        "z": 7.4429
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 81.5457,
+                    "Height": 106.6349,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/储藏室_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "储藏室-1"
+            ]
+        },
+        {
+            "Name": "次卧",
+            "Position": {
+                "x": -228.2101,
+                "y": 115.4056,
+                "z": -100.9807
+            },
+            "Rotation": 352.661437988281,
+            "RoomFaces": [
+                {
+                    "Name": "次卧_face_0",
+                    "Position": {
+                        "x": 24.557,
+                        "y": -24.8325,
+                        "z": 30.2366
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 354.407958984375,
+                        "z": 0
+                    },
+                    "Width": 152.5307,
+                    "Height": 100.335,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卧_face_0.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卧_face_3",
+                    "Position": {
+                        "x": 90.7961,
+                        "y": -24.8325,
+                        "z": -75.8904
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 264.407958984375,
+                        "z": 0
+                    },
+                    "Width": 113.0051,
+                    "Height": 100.335,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卧_face_3.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卧_face_4",
+                    "Position": {
+                        "x": 9.3879,
+                        "y": -24.8325,
+                        "z": -124.6926
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 174.408065795898,
+                        "z": 0
+                    },
+                    "Width": 152.5304,
+                    "Height": 100.335,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卧_face_4.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卧_face_5",
+                    "Position": {
+                        "x": -64.6958,
+                        "y": -24.8325,
+                        "z": -98.6873
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 84.4080657958984,
+                        "z": 0
+                    },
+                    "Width": 37.3252,
+                    "Height": 100.335,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卧_face_5.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卧_face_6",
+                    "Position": {
+                        "x": -74.3225,
+                        "y": -24.8325,
+                        "z": -78.993
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 174.40803527832,
+                        "z": 0
+                    },
+                    "Width": 23,
+                    "Height": 100.335,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卧_face_6.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卧_face_7",
+                    "Position": {
+                        "x": -80.0248,
+                        "y": -24.8325,
+                        "z": -19.216
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 84.4080581665039,
+                        "z": 0
+                    },
+                    "Width": 117.8736,
+                    "Height": 100.335,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卧_face_7.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卧_face_8",
+                    "Position": {
+                        "x": -62.8366,
+                        "y": -24.8325,
+                        "z": 38.3197
+                    },
+                    "Rotation": {
+                        "x": 180,
+                        "y": 354.408050537109,
+                        "z": 0
+                    },
+                    "Width": 23,
+                    "Height": 100.335,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卧_face_8.png",
+                    "IsTransparent": false
+                },
+                {
+                    "Name": "次卧_up",
+                    "Position": {
+                        "x": 7.3458,
+                        "y": 25.335,
+                        "z": -46.3419
+                    },
+                    "Rotation": {
+                        "x": 270,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 186.2272,
+                    "Height": 171.5644,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卧_up.png",
+                    "IsTransparent": true
+                },
+                {
+                    "Name": "次卧_down",
+                    "Position": {
+                        "x": 7.3458,
+                        "y": -75,
+                        "z": -46.3419
+                    },
+                    "Rotation": {
+                        "x": 90,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "Width": 186.2272,
+                    "Height": 171.5644,
+                    "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/RoomFaces/次卧_down.png",
+                    "IsTransparent": true
+                }
+            ],
+            "HotSpotNames": [
+                "次卧-1"
+            ]
+        }
+    ],
+    "HotSpots": [
+        {
+            "Name": "餐厅-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010133_20170118135549.JPG",
+            "Position": {
+                "x": -101.9897,
+                "y": 0,
+                "z": -50.837
+            },
+            "VisibleHotSpots": [
+                "厨房-1",
+                "客厅-1",
+                "客厅-2",
+                "客厅-3",
+                "玄关-1",
+                "餐厅-2",
+                "餐厅-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "餐厅-2",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010136_20170118135853.JPG",
+            "Position": {
+                "x": 25.8021,
+                "y": 0,
+                "z": 61.0996
+            },
+            "VisibleHotSpots": [
+                "餐厅-1",
+                "卫生间-1",
+                "楼梯-1",
+                "餐厅-3",
+                "厨房-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 356.2541,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "餐厅-3",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010135_20170118135813.JPG",
+            "Position": {
+                "x": 21.9401,
+                "y": 0,
+                "z": -45.9707
+            },
+            "VisibleHotSpots": [
+                "餐厅-1",
+                "餐厅-2",
+                "厨房-1",
+                "客厅-1",
+                "客厅-2",
+                "客厅-3",
+                "客厅-5",
+                "楼梯-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 351.6195,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "过道-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010146_20170118140617.JPG",
+            "Position": {
+                "x": -17.1549,
+                "y": 114.7056,
+                "z": -86.1439
+            },
+            "VisibleHotSpots": [
+                "楼梯2-1",
+                "主卧-1",
+                "次卧-1",
+                "过道-2",
+                "过道-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 355.7054,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "过道-2",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010147_20170118140651.JPG",
+            "Position": {
+                "x": -79.7108,
+                "y": 114.7056,
+                "z": -89.3763
+            },
+            "VisibleHotSpots": [
+                "过道-1",
+                "主卧-1",
+                "书房-1",
+                "书房-3",
+                "次卧-1",
+                "过道-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 355.7054,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "过道-3",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010149_20170118140804.JPG",
+            "Position": {
+                "x": -116.063,
+                "y": 114.7056,
+                "z": -90.4507
+            },
+            "VisibleHotSpots": [
+                "过道-1",
+                "过道-2",
+                "主卧-1",
+                "次卫-1",
+                "次卧-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 359.9372,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "外走廊-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010130_20170118135128.JPG",
+            "Position": {
+                "x": -256.8513,
+                "y": 3.3,
+                "z": -22.1291
+            },
+            "VisibleHotSpots": [
+                "电梯间-1",
+                "大门外-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 3.5809,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "大门外-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010131_20170118135236.JPG",
+            "Position": {
+                "x": -272.0518,
+                "y": 2.4,
+                "z": -153.9064
+            },
+            "VisibleHotSpots": [
+                "外走廊-1",
+                "玄关外-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 2.5161,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "玄关外-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010132_20170118135308.JPG",
+            "Position": {
+                "x": -180.2852,
+                "y": 1.55,
+                "z": -141.1942
+            },
+            "VisibleHotSpots": [
+                "大门外-1",
+                "玄关-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 358.1873,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "楼梯-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010144_20170118140434.JPG",
+            "Position": {
+                "x": 7.8714,
+                "y": 68.0556,
+                "z": -201.2595
+            },
+            "VisibleHotSpots": [
+                "餐厅-2",
+                "餐厅-3",
+                "楼梯2-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 356.1093,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "楼梯2-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010145_20170118140509.JPG",
+            "Position": {
+                "x": -26.471,
+                "y": 68.3056,
+                "z": -191.5076
+            },
+            "VisibleHotSpots": [
+                "过道-1",
+                "楼梯-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 2.6188,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "主卧-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010158_20170118141343.JPG",
+            "Position": {
+                "x": 146.0138,
+                "y": 115.0556,
+                "z": -64.9422
+            },
+            "VisibleHotSpots": [
+                "过道-1",
+                "过道-2",
+                "过道-3",
+                "主卧通道-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 357.4855,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "主卧通道-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010160_20170118141456.JPG",
+            "Position": {
+                "x": -0.9096,
+                "y": 115.4556,
+                "z": -33.1257
+            },
+            "VisibleHotSpots": [
+                "主卧-1",
+                "主卧通道-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 352.4435,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "主卧通道-2",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010161_20170118141531.JPG",
+            "Position": {
+                "x": -1.1193,
+                "y": 115.4556,
+                "z": 51.1554
+            },
+            "VisibleHotSpots": [
+                "主卧通道-1",
+                "主卫-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 710.6804,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "书房-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010154_20170118141117.JPG",
+            "Position": {
+                "x": -69.1354,
+                "y": 115.2556,
+                "z": -32.2218
+            },
+            "VisibleHotSpots": [
+                "过道-2",
+                "阳台-1",
+                "书房-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0.6818,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "书房-3",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010153_20170118141044.JPG",
+            "Position": {
+                "x": -72.1696,
+                "y": 115.2556,
+                "z": 28.9551
+            },
+            "VisibleHotSpots": [
+                "过道-2",
+                "书房-1",
+                "阳台-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0.6818,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "阳台-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010156_20170118141229.JPG",
+            "Position": {
+                "x": -260.6384,
+                "y": 115.8556,
+                "z": -5.9454
+            },
+            "VisibleHotSpots": [
+                "书房-1",
+                "书房-3",
+                "储藏室-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 358.1699,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "玄关-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010197_20170119170310.JPG",
+            "Position": {
+                "x": -95.2184,
+                "y": 0.75,
+                "z": -144.1692
+            },
+            "VisibleHotSpots": [
+                "餐厅-1",
+                "玄关外-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 2.0992,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "电梯间-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010129_20170118135049.JPG",
+            "Position": {
+                "x": -257.2104,
+                "y": 4.25,
+                "z": 128.0954
+            },
+            "VisibleHotSpots": [
+                "外走廊-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 359.2954,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "厨房-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010134_20170118135700.JPG",
+            "Position": {
+                "x": -176.046,
+                "y": 0.05,
+                "z": -36.6777
+            },
+            "VisibleHotSpots": [
+                "餐厅-1",
+                "餐厅-3",
+                "餐厅-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 1.4746,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "客厅-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010138_20170118140019.JPG",
+            "Position": {
+                "x": 193.9883,
+                "y": 0.1,
+                "z": -39.1151
+            },
+            "VisibleHotSpots": [
+                "餐厅-1",
+                "餐厅-3",
+                "客厅-2",
+                "客厅-3",
+                "客厅-5"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0.0386,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "客厅-2",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010139_20170118140114.JPG",
+            "Position": {
+                "x": 284.4916,
+                "y": 0.1,
+                "z": -43.3354
+            },
+            "VisibleHotSpots": [
+                "餐厅-1",
+                "餐厅-3",
+                "客厅-1",
+                "客厅-3",
+                "客厅-5"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0.0386,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "客厅-3",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010140_20170118140147.JPG",
+            "Position": {
+                "x": 301.1634,
+                "y": 0.1,
+                "z": -115.8842
+            },
+            "VisibleHotSpots": [
+                "餐厅-1",
+                "餐厅-3",
+                "客厅-1",
+                "客厅-2",
+                "客厅-5"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 360.0386,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "客厅-5",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010142_20170118140257.JPG",
+            "Position": {
+                "x": 103.662,
+                "y": 0.1,
+                "z": -181.9519
+            },
+            "VisibleHotSpots": [
+                "餐厅-3",
+                "客厅-1",
+                "客厅-2",
+                "客厅-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 354.4896,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "卫生间-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010137_20170118135929.JPG",
+            "Position": {
+                "x": 121.1091,
+                "y": 0.15,
+                "z": 79.8862
+            },
+            "VisibleHotSpots": [
+                "餐厅-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 0.3253,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "主卫-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010162_20170118141605.JPG",
+            "Position": {
+                "x": 172.3494,
+                "y": 115.9056,
+                "z": 61.798
+            },
+            "VisibleHotSpots": [
+                "主卧通道-2"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 357.6413,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "次卫-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010152_20170118141000.JPG",
+            "Position": {
+                "x": -108.1775,
+                "y": 115.2056,
+                "z": -143.982
+            },
+            "VisibleHotSpots": [
+                "过道-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 355.7764,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "储藏室-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010157_20170118141303.JPG",
+            "Position": {
+                "x": -264.6845,
+                "y": 116.5056,
+                "z": 66.9449
+            },
+            "VisibleHotSpots": [
+                "阳台-1"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 354.1797,
+                "z": 0
+            },
+            "Type": "Room"
+        },
+        {
+            "Name": "次卧-1",
+            "ImagePath": "./house/b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1/公园一号样板房/PanoramaImages/R0010150_20170118140843.JPG",
+            "Position": {
+                "x": -228.2101,
+                "y": 115.4056,
+                "z": -100.9807
+            },
+            "VisibleHotSpots": [
+                "过道-1",
+                "过道-2",
+                "过道-3"
+            ],
+            "Rotation": {
+                "x": 0,
+                "y": 352.6614,
+                "z": 0
+            },
+            "Type": "Room"
+        }
+    ],
+    "Name": "公园一号样板房",
+    "CameraHeight": 75
+}
