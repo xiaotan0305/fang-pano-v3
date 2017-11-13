@@ -361,6 +361,10 @@ function initPanoramaView() {
     logoPlane.position.y = -400;
 
 //        registerClickEvent(logoPlane, onSwitchToOverviewClicked);
+    // 返回按钮事件
+    switchToOverviewDiv.onclick = onSwitchToOverviewClicked;
+    // vr按钮事件
+    switchVRButton.onclick = onVRButtonClicked;
 
     skyBox.add(logoPlane);
     scene.add(skyBox);
