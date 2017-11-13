@@ -1,20 +1,23 @@
 ﻿/**
  * Created by Shirlman on 12/15/2016.
  */
-var ossHost = "./house/";
-var domain = "./house/";
+
+var {getThumbnailList} = require('./panoThumbnail');
+var PanoramaControls = require('./panoCtrl');
+var ossHost = './house/';
+var domain = './house/';
 
 var stats, openStats = false;
 var raycaster, mouse;
 var scene, camera, renderer, textureLoader;
-var container = document.getElementById( 'vr_house_container' );
+var container = document.getElementById( 'vr_house_container');
 
 // const string
 var overViewHotSpotNameSuffix = "_overViewHotSpotName";
 var hotSpotNameSuffix = "_hotSpotName";
 var hotSpotLineName = "_hotSpotLine";
 
-var house, houseObj;
+var houseObj;
 var groundObj;
 var houseSize;
 var logoPlane;
@@ -69,46 +72,13 @@ var emulateVRControl = false; // test
 var isShowThumbnail = true;
 var userId, houseId;
 
-if(isWebglSupport()) {
-    window.onload = getHouseViewData;
-} else {
-    var browser = getBrowser();
-    var tip = "您的浏览器不支持VR看房，当前浏览器版本是：" + browser.name + " " + browser.version + "<br/>"
-        + "请使用以下浏览器：<br/>IE11、IE Edge、Firefox48+、Chrome50+、Safari9+、猎豹浏览器、360浏览器、UC浏览器<br/>"
-        + (checkIsPhone() ? "请升级您的浏览器版本" : "请使用win7以上的系统");
-
-    document.getElementById("loading_tip").innerHTML = tip;
-}
-
-function isWebglSupport () {
-    try {
-        var canvas = document.createElement( 'canvas' ); return !! ( window.WebGLRenderingContext && ( canvas.getContext( 'webgl' ) || canvas.getContext( 'experimental-webgl' ) ) );
-    } catch ( e ) {
-        return false;
-    }
-}
-
-function getBrowser() {
-    var ua=navigator.userAgent,tem,M=ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
-    if(/trident/i.test(M[1])){
-        tem=/\brv[ :]+(\d+)/g.exec(ua) || [];
-        return {name:'IE',version:(tem[1]||'')};
-    }
-    if(M[1]==='Chrome'){
-        tem=ua.match(/\bOPR|Edge\/(\d+)/)
-        if(tem!=null)   {return {name:'Opera', version:tem[1]};}
-    }
-    M=M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
-    if((tem=ua.match(/version\/(\d+)/i))!=null) {M.splice(1,1,tem[1]);}
-    return {
-        name: M[0],
-        version: M[1]
-    };
-}
+getHouseViewData();
 
 function getHouseViewData() {
     userId = getParameterByName("uid");
+    userId = userId || 'b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1';
     houseId = getParameterByName("hid");
+    houseId = houseId || '公园一号样板房';
     setTitle(userId, houseId);
 
     var url = domain + userId + "/" + houseId + "/" + houseId + "_ViewData.txt";
@@ -117,7 +87,7 @@ function getHouseViewData() {
         url: url,
         type: "GET",
         success: function(data) {
-            house = JSON.parse(data);
+            window.house = JSON.parse(data);
 
             if(userId == "b4d4d01c6b9fa4c8d49f96194ead944a9ee479a2" && houseId == "外景") {
                 initPanoramaHouse();
@@ -182,12 +152,12 @@ function init3DHouse() {
     initPanoramaView();
 
     initVRCrosshair();
-//initAxis();
+    // initAxis();
     createHouse();
 
     initGround();
     createHotSpots();
-//    preLoadPanoramaImages();
+    // preLoadPanoramaImages();
     registEventListener();
 
     var isLandscape = isLandscapeOrNot();
@@ -1059,7 +1029,7 @@ function createHouse() {
             texture.minFilter = THREE.LinearFilter;  // fix image is not power of two (xxx). Resized to xxx img
             var planeMaterial = new THREE.MeshBasicMaterial({map: texture, side: THREE.BackSide, alphaTest:0.1});
             planeMaterial.transparent = true;
-            //planeMaterial.depthWrite = planeMaterial.transparent;
+            // planeMaterial.depthWrite = planeMaterial.transparent;
             var facePlane = new THREE.Mesh(planeGeometry, planeMaterial);
             facePlane.rotation.reorder("YXZ");
             facePlane.rotation.set(THREE.Math.degToRad(roomFace.Rotation.x), THREE.Math.degToRad(roomFace.Rotation.y), THREE.Math.degToRad(roomFace.Rotation.z));
@@ -1424,19 +1394,6 @@ function onThumbnailControllerClicked() {
         $("#thumbnail-list").slideDown("slow");
     } else {
         $("#thumbnail-list").slideUp("slow");
-    }
-}
-
-function Thumbnail () {
-    this.imagePath;
-    this.name;
-    this.onclick;
-    this.isSelected = false;
-
-    this.click = function () {
-        if(this.onclick) {
-            this.onclick(this);
-        }
     }
 }
 

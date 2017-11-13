@@ -1,4 +1,4 @@
-PanoramaControls = function ( camera, domElement ) {
+var PanoramaControls = function ( camera, domElement ) {
     this.enabled = false;
     this.isAutoPlay = false;
     var isPointDown = false;
@@ -125,3 +125,5 @@ PanoramaControls = function ( camera, domElement ) {
         update();
     }
 };
+
+module.exports = PanoramaControls;

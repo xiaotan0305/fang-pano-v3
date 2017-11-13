@@ -1,10 +1,23 @@
 /**
  * Created by Shirlman on 1/20/2017.
  */
-var baseUrl = window.location.href.substring(0, window.location.href.indexOf("?") + 1);
+var baseUrl = window.location.href.substring(0, window.location.href.indexOf("?") + 1) || '?';
 var modelHouseUrl = baseUrl + "uid=b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1&hid=公园一号样板房";
 var salesUrl = baseUrl + "uid=b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1&hid=售楼处";
 var outDoorUrl = baseUrl + "uid=b4d4d01c6b9fa4c8d49f96194ead944a9ee479a1&hid=外景";
+
+function Thumbnail () {
+    this.imagePath;
+    this.name;
+    this.onclick;
+    this.isSelected = false;
+
+    this.click = function () {
+        if(this.onclick) {
+            this.onclick(this);
+        }
+    };
+}
 
 function getThumbnailList() {
     if(house.Name == "公园一号样板房") {
@@ -157,3 +170,4 @@ function onModelHouseThumbnailClicked(thumbnail) {
         house.HotSpots[hotSpotIndex].gameObject.visible = isVisible;
     }
 }
+module.exports = {getThumbnailList};
